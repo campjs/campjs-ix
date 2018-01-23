@@ -1,0 +1,11 @@
+<% site.data.organisers.people.forEach(function(person){ %>
+<div class="card mb-4">
+  <img class="card-img-top" src="<%- person.image || gravatar(person.email || '', 400) %>" alt="<%= person.name %>">
+  <div class="card-body">
+    <h3 class="h5"><%= person.name %></h3>
+    <p><%= person.role %></p>
+    <p>Tweet <a href="https://mobile.twitter.com/<%= person.twitter %>">@<%= person.twitter %></a>
+    <% if(person.email) { %><p>Email <a href="mailto:<%= person.email %>"><%= person.email %></a><% } %>
+  </div>
+</div>
+<% }) %>

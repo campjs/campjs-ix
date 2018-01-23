@@ -1,0 +1,10 @@
+people:
+    - {name: 'Glen Arrowsmith', twitter: garrows, role: 'General Organiser', email: garrows@campjs.com}
+    - {name: 'Damon Oehlman', twitter: damonoehlman, role: 'Sponsorships & Finance', email: damon@campjs.com}
+    - {name: 'Anna Gerber', twitter: AnnaGerber, role: 'Scheduling and Zine', email: annagerber@campjs.com}
+    - {name: 'Craig Sharkie', twitter: twalve, role: 'Sponsorships & Scholarships', email: sharkie@campjs.com}
+    - {name: 'Tim Oxley', twitter: secoif, role: 'Traditional Founding Father of CampJS', email: tim@campjs.com}
+    - {name: 'Cathy Lill', twitter: cathyblabla, role: 'Advisor and Childcare Organisation'}
+    - {name: 'Maurice Butler', twitter: butlermaurice, role: 'General Busy Body', email: mauricebutler@campjs.com}
+    - {name: 'Adam Brady', twitter: adam__brady, role: 'General Busy Body'}
+    - {name: 'Luke Brooker', twitter: lukebrooker, role: 'CampJS Website'}

@@ -1,0 +1,16 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-6 main-content">
+      <%- partial('_partial/article', {post: page, index: false}) %>
+    </div>
+    <div class="col-md-6 sidebar">
+      <% theme.widgets.forEach(function(widget){ %>
+        <div class="card">
+          <div class="card-body">
+            <%- partial('_widget/' + widget) %>
+          </div>
+        </div>
+      <% }) %>
+    </div>
+  </div>
+</div>

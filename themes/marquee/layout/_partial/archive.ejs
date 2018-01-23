@@ -1,0 +1,18 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-6 main-content">
+      <ol>
+        <% page.posts.each(function(post){ %>
+          <a href="<%= url_for(post.path) %>" itemprop="url">
+            <%= post.title %>
+          </a>
+        <% }) %>
+      </ol>
+    </div>
+    <div class="col-md-6 sidebar">
+      <% theme.widgets.forEach(function(widget){ %>
+        <%- partial('_widget/' + widget) %>
+      <% }) %>
+    </div>
+  </div>
+</div>
