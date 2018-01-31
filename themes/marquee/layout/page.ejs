@@ -1,16 +1,10 @@
-<div class="container">
-  <div class="row">
-    <div class="col-md-6 main-content">
-      <%- partial('_partial/article', {post: page, index: false}) %>
-    </div>
-    <div class="col-md-6 sidebar">
-      <% theme.widgets.forEach(function(widget){ %>
-        <div class="card">
-          <div class="card-body">
-            <%- partial('_widget/' + widget) %>
-          </div>
-        </div>
-      <% }) %>
+<%- partial('_partial/hero', {page}) %>
+<div class="cover pt-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 offset-md-2 main-content">
+        <%- partial('_partial/page', {post: page}) %>
+      </div>
     </div>
   </div>
 </div>

@@ -1,11 +1,30 @@
-<footer id="footer">
-  <% if (theme.sidebar === 'bottom'){ %>
-    <%- partial('_partial/sidebar') %>
-  <% } %>
-  <div class="outer">
-    <div id="footer-info" class="inner">
-      &copy; <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %><br>
-      <%= __('powered_by') %> <a href="http://hexo.io/" target="_blank">Hexo</a>
+<div class="cover">
+  <div class="container pt-5 pb-5">
+    <div class="row">
+      <div class="col-md-8 offset-md-2">
+        <h2>Code of Conduct</h2>
+        CampJS takes pride in being an inclusive and welcoming event for people from all walks of life.
+        Participants should to review our <a href="/code-of-conduct/">code of conduct</a> prior to attending as any violations will be taken seriously.
+      </div>
+    </div>
+  </div>
+</div>
+<footer class="bg-dark pt-4 pb-3">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <ul class="list-inline mb-2">
+          <% for (var i in theme.menuFooter){ %>
+            <li class="list-inline-item">
+              <a href="<%- url_for(theme.menu[i]) %>"><%= i %></a>
+            </li>
+          <% } %>
+        </ul>
+        <p>
+          &copy; <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %>.
+          <%= __('powered_by') %> <a href="http://hexo.io/">Hexo</a>
+        </p>
+      </div>
     </div>
   </div>
 </footer>

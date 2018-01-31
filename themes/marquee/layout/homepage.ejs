@@ -1,0 +1,25 @@
+<%- partial('_partial/hero', {page}) %>
+<div class="cover pt-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 offset-md-2 main-content">
+        <%- partial('_partial/page', {post: page}) %>
+      </div>
+    </div>
+    <% if(page.video){ %>
+      <div class="col-md-12 mt-5">
+        <div class="video">
+          <%- page.video %>
+        </div>
+      </div>
+    <% } %>
+    <div class="col-md-12 mt-5">
+      <h2>Our sponsors</h2>
+      <p>It wouldn't be possible to run CampJS without our sponsors.</p>
+      <p>If you would like to sponsor CampJS, or help underrepresented groups attend by sponsoring diversity tickets, check out our <a href="/sponsors">sponsorship info</a>.</p>
+      <% if(site.data.sponsors.items.length){ %>
+        <%- partial('_partial/datagrid', { data: site.data.sponsors.items}) %>
+      <% } %>
+    </div>
+  </div>
+</div>

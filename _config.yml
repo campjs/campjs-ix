@@ -52,6 +52,9 @@ index_generator:
   per_page: 10
   order_by: -date
 
+exclude_generator:
+- index
+
 # Category & Tag
 default_category: uncategorized
 category_map:
@@ -78,3 +81,6 @@ theme: marquee
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+sitemap:
+    path: sitemap.xml

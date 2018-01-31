@@ -1,0 +1,11 @@
+<% if(page.heroImage){ %>
+  <div class="hero with-text"  style="background-image: url('<%= page.heroImage %>')">
+    <% if(page.heroTitle){ %>
+      <h1><%= page.heroTitle %></h1>
+      <p class="subtitle mb-5"><%= page.heroSubtitle %></p>
+    <% } %>
+    <% if(page.buyLink) { %>
+      <div><a class="btn-primary button-call-to-action" href="<%= page.buyLink %>">Buy Ticket</a></div>
+    <% } %>
+  </div>
+<% } %>

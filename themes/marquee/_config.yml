@@ -1,8 +1,18 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
-rss: /atom.xml
+  The Camp: /the-camp
+  Speakers: /speakers
+  Sponsors: /sponsors
+  Organisers: /organisers
+  Code of Conduct: /code-of-conduct
+menuFooter:
+  The Camp: /the-camp
+  Speakers: /speakers
+  Sponsors: /sponsors
+  Organisers: /organisers
+  Contact: /contact
+  Diversity & Inclusiveness: /diversity-and-inclusiveness
+  Code of Conduct: /code-of-conduct
 
 # Content
 excerpt_link: Read More

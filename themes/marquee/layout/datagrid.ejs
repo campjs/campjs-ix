@@ -1,0 +1,13 @@
+<%- partial('_partial/hero', {page}) %>
+<div class="container pt-5">
+  <div class="row">
+    <div class="col-md-8 offset-md-2">
+      <%- partial('_partial/page', {post: page}) %>
+    </div>
+  </div>
+  <div class="row mt-5">
+    <div class="col-md-12">
+      <%- partial('_partial/datagrid', { data: site.data[page.datagrid].items}) %>
+    </div>
+  </div>
+</div>

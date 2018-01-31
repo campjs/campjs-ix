@@ -1,0 +1,23 @@
+<div class="card-columns card-columns-4">
+<% data.forEach(function(item){ %>
+<div class="card mb-4">
+  <img class="card-img-top" src="<%- item.image %>" alt="<%= item.name %>">
+  <div class="card-body">
+    <h3 class="h5">
+      <% if(item.link) { %>
+        <a href="<%= item.link %>"<%= item.name %></a>
+      <% } else { %>
+        <%= item.name %>
+      <% } %>
+    </h3>
+    <p><%= item.description %></p>
+    <% if(item.twitter) { %>
+      <p>Tweet <a href="https://mobile.twitter.com/<%= item.twitter %>">@<%= item.twitter %></a></p>
+    <% } %>
+    <% if(item.email) { %>
+      <p>Email <a href="mailto:<%= item.email %>"><%= item.email %></a>
+    <% } %>
+  </div>
+</div>
+<% }) %>
+</div>

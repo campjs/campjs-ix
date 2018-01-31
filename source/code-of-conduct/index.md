@@ -17,8 +17,14 @@ If you are removed from a CampJS event
 * Your behaviour may be communicated to other event organisers.
 * We have been very proud of the CampJS community for being mostly mature and well-behaved at our events thus far, and hopefully we will never have to enact any disciplinary measures. It is the purpose of this code of conduct to ensure everyone knows that we do not tolerate harassment or otherwise offensive behaviour and we want to know immediately if it's happening at one of our events.
 
-#Who to contact?
+## Who to contact
 
-If you'd like to report an issue, do not hesitate to approach any of the CampJS organisers with any and all issues. Alternatively get in touch at at codeofconduct@campjs.com. We take every issue seriously.
+The CampJS team is here to help attendees feel safe for the duration of the workshop. We value your participation.
 
-If you feel this Code of Conduct could be improved, we welcome your feedback.
+If you need to report an issue, you can:
+
+* approach any of the CampJS organisers during the event
+* get in touch via email at at codeofconduct@campjs.com
+* if you would prefer to report an issue anonymously you can use the <a href="https://goo.gl/forms/7VjBuuUTgLxkg20B2">anonymous reporting form</a>
+
+We take every issue seriously and aim to resolve issues as soon as possible.
