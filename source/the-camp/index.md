@@ -2,7 +2,8 @@
 title: About CampJS
 date: 2018-01-23
 heroImage: /images/venue-koonjewarre/lachlan-hardy-9484065006_251d848e6e_o-.jpg
-heroTitle: An adventure in the Gold Coast Hinterlands
+heroTitle: An adventure
+heroSubtitle: in the Gold Coast Hinterlands
 heroAttribution: Photo by Lachlan Hardy
 ---
 Not sure what the deal is? Check out the resources below to find out more about this awesome weekend away.
