@@ -22,4 +22,4 @@ Our coach steps are able to be lowered to provide easier access, a wheelchair ac
 
 Car parking is available at Koonjewarre for cars and small caravans.
 
-If you are driving to CampJS please consider signing up as a car pool volunteer
+If you are driving to CampJS please consider signing up as a carpool volunteer
