@@ -11,7 +11,7 @@ You can contact the CampJS organizers any of the following ways:
 
 * *Email*:
 * *Twitter*: <a href="https://mobile.twitter.com/campjs">@campjs</a>
-* *Issue tracker:* We organise as much of CampJS in the open as possible on <a href="https://github.com/campjs/campjs-next/issues">Github issues</a>.
+* *Issue tracker:* We organise as much of CampJS in the open as possible on <a href="https://github.com/campjs/campjs-ix/issues">Github issues</a>.
 * *Slack*: We have a Slack chat on <a href="https://wealljs.org/">WeAllJS</a> which you can get access to with the command<br>`/join-private #campjs`
 
 ## Feedback
