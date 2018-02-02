@@ -1,9 +1,9 @@
 ---
 title: CampJS IX
 date: 2018-01-23
-heroImage: /images/venue-koonjewarre/rodger-wang-DSC_9619.jpg
+heroImage: /images/venue-melb/group-photo.jpg
 heroTitle: CampJS IX
-heroSubtitle: 2018-08-01 Gold Coast Hinterlands
+heroSubtitle: 10th-13th August 2018 Gold Coast Hinterlands
 heroAttribution: Photo by <a href="">Rodger Wang</a>
 layout: homepage
 video: <iframe src="https://player.vimeo.com/video/159874394?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
