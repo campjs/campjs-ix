@@ -18,6 +18,12 @@ items:
       email: annagerber@campjs.com
       image: "/images/profiles/AnnaGerber.jpg"
     -
+      name: Ash Kyd
+      twitter: ashkyd
+      description: General Organiser
+      email: ash@campjs.com
+      image: "/images/profiles/ashkyd.jpg"
+    -
       name: Craig Sharkie
       twitter: twalve
       description: Sponsorships & Scholarships
@@ -29,6 +35,12 @@ items:
       description: Traditional Founding Father of CampJS
       email: tim@campjs.com
       image: "/images/profiles/secoif.jpg"
+    -
+      name: Kartik Gupta
+      twitter: _kartikgupta_
+      description: General Organiser
+      email: kartik@campjs.com
+      image: "/images/profiles/kartikgupta.jpg"
     -
       name: Cathy Lill
       twitter: cathyblabla
