@@ -3,7 +3,7 @@ title: Transport to CampJS
 date: 2018-01-23
 ---
 
-Coaches are provided to transport attendees to the camp from Brisbane airport and back via Brisbane CBD. Interstate and international travellers should fly into Brisbane airport around midday.
+Coaches are provided to transport attendees to the camp from Gold Coast airport, Brisbane airport and back via Brisbane CBD. Interstate and international travellers should fly into Brisbane airport or Gold Coast airport around midday.
 
 ## Brisbane Airport Bus
 TBD
@@ -22,4 +22,4 @@ Our coach steps are able to be lowered to provide easier access, a wheelchair ac
 
 Car parking is available at Koonjewarre for cars and small caravans.
 
-If you are driving to CampJS please consider signing up as a volunteer
+If you are driving to CampJS please consider signing up as a car pool volunteer
