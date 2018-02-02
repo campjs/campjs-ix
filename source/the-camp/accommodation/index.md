@@ -12,12 +12,10 @@ The accommodation at Koonjewarre is dormitory style with around 12 beds per dorm
 
 Bunks with mattresses are provided, but you will need to bring your own pillow, sleeping bag and linen.
 
-## Accomodation for couples and families
-If you and your partner are attending CampJS as a couple or family, you can opt to share a dorm in the family units.
+## Accomodation for couples
+If you and your partner are attending CampJS as a couple, you can opt to share a dorm in the family units.
 
 Family units are with 8 beds per room mixed-gender dorms which are only offered to folks bringing a partner who would prefer to remain together.
-
-Depending on space & ticket sales, families still might have to share with other families.
 
 Please let us know when booking so we can set aside enough rooms.
 
@@ -37,6 +35,8 @@ Families & children are always welcome at CampJS.
 Limited numbers of private rooms are available for families to share, or you might choose to stay at alternative accommodation nearby.
 
 If you are bringing your family to stay in CampJS accomodation, please specify a family ticket when booking to ensure you can reserve a spot.
+
+Depending on space & ticket sales, families still might have to share a room with other families.
 
 ## Bringing a tent
 If you're the more adventurous type, there is space for setting up tents to camp on the Koonjewarre grounds.

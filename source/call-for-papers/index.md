@@ -9,7 +9,7 @@ CampJS call for papers is now open!
 
 Closes midnight 29th April 2018. You will hear back from us before 1st June.
 
-We are quite impressed with how [CSSConf](https://2018.jsconfau.com/call-for-speakers) is addressing diversity in speakers. The selection process for speakers for this year will be similar to [CSSConf](https://2018.jsconfau.com/call-for-speakers). 
+We have taken stock of how other more successful conferences such as [CSSConf](https://2018.jsconfau.com/call-for-speakers) are [addressing diversity in speakers](http://2016.cssconf.com.au/2016/07/01/cfp.html).
 
 # Topic suggestions
 
