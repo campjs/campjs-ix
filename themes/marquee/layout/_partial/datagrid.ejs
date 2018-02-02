@@ -1,5 +1,6 @@
 <div class="card-columns card-columns-4">
-<% data.forEach(function(item){ %>
+<% if (data) {
+  data.forEach(function(item){ %>
 <div class="card mb-4">
   <img class="card-img-top" src="<%- item.image %>" alt="<%= item.name %>">
   <div class="card-body">
@@ -20,4 +21,5 @@
   </div>
 </div>
 <% }) %>
+<% } %>
 </div>

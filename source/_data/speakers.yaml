@@ -3,6 +3,7 @@ items:
       name: Glen Arrowsmith
       twitter: garrows
       description: General Organiser
+      email: garrows@campjs.com
       image: "/images/profiles/garrows.jpg"
     -
       name: Damon Oehlman

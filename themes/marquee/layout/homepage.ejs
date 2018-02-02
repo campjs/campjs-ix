@@ -17,7 +17,7 @@
       <h2>Our sponsors</h2>
       <p>It wouldn't be possible to run CampJS without our sponsors.</p>
       <p>If you would like to sponsor CampJS, or help underrepresented groups attend by sponsoring diversity tickets, check out our <a href="/sponsors">sponsorship info</a>.</p>
-      <% if(site.data.sponsors.items.length){ %>
+      <% if(site.data.sponsors.items && site.data.sponsors.items.length){ %>
         <%- partial('_partial/datagrid', { data: site.data.sponsors.items}) %>
       <% } %>
     </div>
