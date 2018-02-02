@@ -18,7 +18,7 @@ Check out our accommodation page for all the details
 ## 🍛 Food and drinks
 Food and drink is included in the price of your CampJS ticket.
 
-All meals are catered by Lord Somers Camp, snacks, tea and coffee, juice, water and flavoured milk are also included in your ticket price. There is a free coffee pod machine.
+All meals are catered by Koonjewarre Camp, snacks, tea and coffee, juice, water and flavoured milk are also included in your ticket price. There is a free coffee pod machine.
 
 If you have any specific dietary requirements please note the details on your registration form. We are able to cater to most requirements given prior notice.
 

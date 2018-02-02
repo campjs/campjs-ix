@@ -4,19 +4,20 @@ date: 2018-01-23
 heroImage: https://api.mapbox.com/styles/v1/mapbox/streets-v9/static/pin-s-building+285A98(153.270401,-28.228613)/153.34,-28.2,10,0/800x400@2x?access_token=pk.eyJ1IjoiYXNoa3lkIiwiYSI6ImNqY25haWgyaTBraDgyenFub21yYXEzZ3gifQ.K2j7J-jCiCUsDybuks_-zA&attribution=false
 ---
 
-CampJS VIII will be held at <a href='http://www.lordsomerscamp.com/'>Lord
-Somers Camp, Victoria, Australia</a> (<a
-href='http://maps.google.com/maps?f=q&hl=en&geocode=&q=Lord+Somers+Camp+Parklands+Avenue+Somers&sll=-37.787844,145.025454&sspn=0.019637,0.046778&ie=UTF8&cid=-38391441,145152110,7610982389541332772&ll=-38.382642,145.160122&spn=0.023548,0.036478&z=14&iwloc=A&source=embed'>map</a>). The venue is about 1.5hrs drive from Melbourne CBD, on the Mornington Peninsula.
+CampJS IX will be held at <a href='http://koonjewarre.com'>Koonjewarre Camp, Queensland, Australia</a> (<a
+href='https://www.google.com.au/maps/place/Koonjewarre/@-28.228613,153.270401,15z/data=!4m5!3m4!1s0x0:0xb1b3c5350f23cbd2!8m2!3d-28.228613!4d153.270401'>map</a>). The venue is about 1.5hrs drive from Brisbane CBD, Gold Coast Hinterland.
 
 
-The accommodation at Lord Somers is dormitory style with around 8 beds per dorm, and one shower/toilet per dorm. You will need to bring your own toiletries.
+The accommodation at Koonjewarre is dormitory style with around 12 beds per dorm, and shared showers and toilets per dorm. You will need to bring your own toiletries.
 
 Bunks with mattresses are provided, but you will need to bring your own pillow, sleeping bag and linen.
 
-## Accomodation for couples
-If you and your partner are attending CampJS as a couple, you can opt to share a dorm in the mixed-gender dorms.
+## Accomodation for couples and families
+If you and your partner are attending CampJS as a couple or family, you can opt to share a dorm in the family units.
 
-Couples dorms are mixed-gender dorms which are only offered to folks bringing a partner who would prefer to remain together.
+Family units are with 8 beds per room mixed-gender dorms which are only offered to folks bringing a partner who would prefer to remain together.
+
+Depending on space & ticket sales, families still might have to share with other families.
 
 Please let us know when booking so we can set aside enough rooms.
 

@@ -29,7 +29,7 @@ We're always looking for people to run activities on the side.
 
 If you have a hobby you want to bring to camp (think bushwalking, drone flying, knitting, music) let us know:
 
-1. <a href="https://github.com/campjs/campjs-viii/issues/new">Create an issue</a> letting us know what your activity is
+1. <a href="https://github.com/campjs/campjs-ix/issues/new">Create an issue</a> letting us know what your activity is
 1. Let us know how much time you're willing to set aside for it on the weekend (a couple of hours, a full day etc) and we'll add it to the schedule
 1. Don't forget to include some info about what your activity will be like, and what campers need to bring
 
