@@ -53,7 +53,7 @@ We believe anyone can become a speaker.  **We’re here to help and guide you to
 
 Here’s what we can do:
 
-* Brainstorm general ideas for a talk (just drop us an [email](mailto:team@campjs.com), but remember to **not disclose talk titles or full abstracts** as it might disqualify your future submissions).
+* Brainstorm general ideas for a talk (just drop us an [email](mailto:organisers-team@campjs.com), but remember to **not disclose talk titles or full abstracts** as it might disqualify your future submissions).
 * Connect you to experienced speakers, who can offer mentorship in preparing a great talk.
 * Provide advice on creating a great slide deck, from typography, colours, copy-writing to accessibility and Code of Conduct compliance.
 * Rehearse the talk with you via Skype, phone or over a cuppa here in Melbourne.
