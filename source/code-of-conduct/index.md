@@ -24,7 +24,7 @@ The CampJS team is here to help attendees feel safe for the duration of the work
 If you need to report an issue, you can:
 
 * approach any of the CampJS organisers during the event
-* get in touch via email at at codeofconduct@campjs.com
+* get in touch via email at at codeofconduct-team@campjs.com
 * if you would prefer to report an issue anonymously you can use the <a href="https://goo.gl/forms/7VjBuuUTgLxkg20B2">anonymous reporting form</a>
 
 We take every issue seriously and aim to resolve issues as soon as possible.
