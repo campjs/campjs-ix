@@ -10,6 +10,7 @@ layout: homepage
 video: <iframe src="https://player.vimeo.com/video/159874394?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 # buyLink: http://example.org
 ---
+**!!! [Call for papers](/call-for-papers) is now open !!!**
 
 <p class="lead">CampJS is a 3-night code retreat for anyone who is interested in web technology. Beginners &amp; experts, all are welcome.</p>
 

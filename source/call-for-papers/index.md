@@ -1,6 +1,8 @@
 ---
 title: Call for Papers
 date: 2018-02-02
+heroImage: /images/venue-koonjewarre/rodger-wang-2Y1A2498.jpg
+heroAttribution: Photo by Rodger Wang
 ---
 
 CampJS call for papers is now open!
@@ -93,3 +95,22 @@ http://vii.campjs.com/schedule/
 http://vi.campjs.com/sessions.html
 
 http://v.campjs.com/#activities
+
+http://iv.campjs.com/#talks-and-workshops
+
+http://iii.campjs.com/#sessions
+
+http://ii.campjs.com
+
+http://i.campjs.com/#schedule
+
+# What you get
+
+CampJS is a volunteer run non for profit which arrives to keep tickets as cheap as possible. We rely on our speakers volunteering as well. 
+
+However we do have several options which hopefully suits your situation.
+
+* If your employer pays for your ticket and travel expenses, we will list them as a speaker sponsor. 
+* If you're paying your own way we can heavily discount your ticket
+* If you need financial assistance, we can cover your ticket and some of your travel costs. 
+* Something else? Let us know in the CFP form

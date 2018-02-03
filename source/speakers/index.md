@@ -1,15 +1,26 @@
 ---
-title: Call for Speakers
+title: Speakers
 date: 2018-01-23
-layout: datagrid
-datagrid: speakers
 heroImage: /images/venue-koonjewarre/rodger-wang-2Y1A2498.jpg
 heroAttribution: Photo by Rodger Wang
 ---
-We encourage talks for all skill levels with a broad set of topics. If you find it interesting, we want to hear about it.
 
-*Call for papers has now closed*
+**!!! [Call for papers](/call-for-papers) is now open !!!**
 
-Everyone who has submitted will recieve confirmation ASAP and no later than Friday 14th July.
+In the mean time, check our some of our talks & workshops from previous Camps.
 
-# The speakers so far
+http://viii.campjs.com/sessions/
+
+http://vii.campjs.com/schedule/
+
+http://vi.campjs.com/sessions.html
+
+http://v.campjs.com/#activities
+
+http://iv.campjs.com/#talks-and-workshops
+
+http://iii.campjs.com/#sessions
+
+http://ii.campjs.com
+
+http://i.campjs.com/#schedule
