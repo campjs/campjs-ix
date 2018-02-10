@@ -5,112 +5,121 @@ heroImage: /images/venue-koonjewarre/rodger-wang-2Y1A2498.jpg
 heroAttribution: Photo by Rodger Wang
 ---
 
-CampJS call for papers is now open!
+CampJS call for papers is now open! We are looking for both talks and workshops!
 
 <a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSfGGf4jZLf4SQNBljGxdxqtOZ7XR_sd4xFSoeZ8qpCJfMeY2A/viewform">Submit a talk/workshop</a>
 
-Closes midnight 29th April 2018. You will hear back from us before 1st June.
+Submissions close midnight 29th April 2018. You will hear back from us before 1st June.
 
-We have taken stock of how other more successful conferences such as [CSSConf](https://2018.jsconfau.com/call-for-speakers) are [addressing diversity in speakers](http://2016.cssconf.com.au/2016/07/01/cfp.html).
+# The conference format
 
-# Topic suggestions
+Out in the wilderness, CampJS is a very laid back atmosphere and is a great opportunity for first time speakers!
 
-While we’re open to a wide range of topics; we’re particularly interested in talks that somewhat fit in the spectrum of:
+This time around we are having two main tracks:
 
-* Cutting-edge advancements in the world of JavaScript
-* JavaScript-powered audio and visuals
-* JavaScript automation
-* Making art with JavaScript
-* New, interesting angles on JavaScript frameworks
-* Robotics and hardware
-* Virtual Reality
-* Being a better developer
-* The state and future of the JavaScript community
-* Ridiculous, wild ideas and projects
-* And finally: whatever you want, this is your conference!
+<dl>
+  <dt>Talks</dt>
+  <dd>Featured speakers (this is you!) with time scheduled for unstructured lightning talks</dd>
+  <dt>Workshops & non-tech activities</dt>
+  <dd>Longer-form learning opportunities for beginners or advanced campers.</dd>
+</dl>
 
-If you’re unsure whether the proposal fits into the conference feel free to submit it nonetheless to avoid missing out on the speaking opportunity.
+Attendees will have the opportunity to choose between talks or workshops. Where possible we will align related talks and workshops so attendees can do both, and put speakers in touch with workshop organizers to collaborate when it makes sense.
 
-We’d love to hear what you’re passionate about!
+## 🗣 Submit a talk
+We’re open to a wide range of topics relating to Javascript, frontend development, and the industry as a whole.
 
+<dl>
+  <dt>Language</dt>
+  <dd>All talks are in English.</dd>
+  <dt>Talk Duration</dt>
+  <dd>Under 30 minutes. Questions at the end if time permits</dd>
+</dl>
 
-# How to write a good proposal?
+Successful talks in the past have included elements of:
 
-Here’s what we expect from a proposal:
+* The latest developments in the Javascript world
+* Introductions to new frameworks & ideas (ideally which campers can build on through the weekend)
+* New browser technologies and how they work
+* Making art with code (audio, video, games)
+* Your experiences getting stuff done
+* Server-side Javascript tech (NodeJS, serverless, Internet of Things)
+* Reflection on the state of the industry
+* How to improve yourself as a developer
+* Virtual & augmented reality
+* Robotics & hardware
+* Infosec & keeping your apps safe
+* Anything else! This is your conference!
 
-* __Language__: All talks are in English.
-* __Talk Duration__: Talks should be under 30 minutes long. Questions at the end if time permits.
-* __Workshop Duration__: Workshops are variable length. Let us know how long you need.
-* __Conciseness__: Keep the proposal short and sweet—up to four paragraphs. It’s tempting to write a lengthy description to fully convey the idea in your head, but due to the amount of submissions we get it makes a big difference if a proposal makes a good impression straight away.
-* __Formatting__: Write with care. Typos, sloppy formatting, all-lowercase proposals will reflect negatively on the outcome of your submission.
-* __Originality__: We’re committed to pushing the community forward, which is why we favour original content. There’s nothing wrong with a talk that has already been given elsewhere though, if it will be presented with new information or demonstrations, making it unique for our audience.
+We want to hear from a range of voices, so if you’re on the fence as to whether your proposal is a good fit, please submit it anyway!
 
-# We can help
+## 🏫 Submit a workshop
+Workshops at CampJS are an opportunity for attendees to learn a skill and walk away having been taught or built something.
 
-We know that not everyone considers themselves a potential speaker. Delivering a talk can be challenging. Designing beautiful slides might feel impossible. Live demos can go wrong in so many ways.
+Ideally workshops plant a seed that will grow over the weekend. This might be teaching a skill, setting up a competition, or encouraging attendees to continue hacking on something on their own through the weekend.
 
-We believe anyone can become a speaker.  **We’re here to help and guide you to develop skills to deliver a stellar talk.**
+<dl>
+  <dt>Duration</dt>
+  <dd>Workshops are of variable length. In the past workshops have run from half an hour to the full day</dd>
+  <dt>Format</dt>
+  <dd>This is fairly open. You get a room with space to present, and space for attendees to make/hack/create a thing of their own.</dd>
+</dl>
 
-Here’s what we can do:
+Some successful workshops in the past have involved:
 
-* Brainstorm general ideas for a talk (just drop us an [email](mailto:organisers-team@campjs.com), but remember to **not disclose talk titles or full abstracts** as it might disqualify your future submissions).
-* Connect you to experienced speakers, who can offer mentorship in preparing a great talk.
-* Provide advice on creating a great slide deck, from typography, colours, copy-writing to accessibility and Code of Conduct compliance.
-* Rehearse the talk with you via Skype, phone or over a cuppa here in Melbourne.
-* Connect you to local groups if you’d like to practice in front of a friendly crowd.
+1. Kite making with JS hardware
+1. Wearable electronics
+1. Guided adventures for beginners using [workshopper-adventure](https://github.com/workshopper/workshopper-adventure) or similar
+1. Knitting and e-textiles (see [Kris's writeup](https://www.web-goddess.org/archive/15420))
+1. NodeBoats remote controlled boats ([See the NodeBoats repo on GitHub](https://github.com/notthetup/nodeboats-material))
 
-Additionally, you might find these materials helpful:
+If you are running a workshop you are welcome to have your company sponsor the materials and be listed on the [sponsors](/sponsors/) page.
 
-* [You would make an awesome speaker](http://weareallaweso.me/)
-* [How to prepare and write a tech conference talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
-* [Do Your Slides At The Last Minute](https://emptysqua.re/blog/how-i-write-a-conference-talk/)
-* [What Your Conference Proposal Is Missing](http://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing/)
+Workshops are a great way to get involved and teach a skill. If you’re on the fence as to whether your proposal is a good fit, please submit it anyway!
 
-# The selection process
+# 💸 What you get
+CampJS is a **volunteer run organisation** which arrives to keep tickets as cheap as possible. We rely on our speakers volunteering as well.
 
-Here’s how it’ll work in a nutshell:
+However we have several options which hopefully suit your situation:
 
-* All submissions are anonymised with a carefully curated amount of conscious bias.
-* All talks are reviewed and voted on by the conference organisers based on the following criteria:
-* * relevance to the community
-* * clarity and cohesiveness of the proposal
-* * originality of the talk
-* Triaged submissions are completely de-anonymised and we select the final lineup.
-* Call for Speakers participants are notified, no matter the outcome.
+* If your employer pays for your ticket and travel expenses, we will list them as a speaker sponsor.
+* If you're paying your own way we can heavily discount your ticket
+* If you need financial assistance, we can cover your ticket and some of your travel costs.
+* Something else? Let us know in the CFP form
 
-# Code of Conduct
+## How talks are chosen
+This year we will have fewer talks and have a commitment to improving diversity in our speakers.
+
+To achieve this our process for chosing speakers and workshops is as follows:
+
+1. Submissions are received by the due date
+1. Submissions are anonymised
+1. Talks are reviewed, shortlisted, and voted on by our team of organisers based on the value added to the community (relevance, clarity, originality, whimsy)
+1. Submissions are de-anonymised and the final schedule is chosen
+1. Speakers are notified at this time (regardless of the outcome)
+
+We're very keen to help speakers out as part of this process. If you want feedback on your submission, please let us know and we will get back to you with any critique and feedback.
+
+# Code of conduct
 
 By applying to speak you agree to follow the conference [Code of Conduct](/code-of-conduct). We are committed to providing a harassment-free, professional and welcoming environment for all attendees.
 
-Speakers should pay particular attention and avoid using visuals, audio or language that may potentially be considered offensive or harmful (sexual, racist, homophobic, insensitive, etc.) as it will not be tolerated.
+Speakers should pay particular attention and avoid using visuals, audio or language that may potentially be considered offensive or harmful.
 
-# Past Talks/Workshops
+Please ensure you understand the [Code of Conduct](/code-of-conduct) before submitting your proposal.
+
+# Past talks/workshops
 
 Check out the talks from some of our past events
 
-http://viii.campjs.com/sessions/
+* [CampJS 8](http://viii.campjs.com/sessions/)
+* [CampJS 7](http://vii.campjs.com/schedule/)
+* [CampJS 6](http://vi.campjs.com/sessions.html)
+* [CampJS 5](http://v.campjs.com/#activities)
+* [CampJS 4](http://iv.campjs.com/#talks-and-workshops)
+* [CampJS 3](http://iii.campjs.com/#sessions)
+* [CampJS 2](http://ii.campjs.com)
+* [CampJS 1](http://i.campjs.com/#schedule)
 
-http://vii.campjs.com/schedule/
-
-http://vi.campjs.com/sessions.html
-
-http://v.campjs.com/#activities
-
-http://iv.campjs.com/#talks-and-workshops
-
-http://iii.campjs.com/#sessions
-
-http://ii.campjs.com
-
-http://i.campjs.com/#schedule
-
-# What you get
-
-CampJS is a volunteer run non for profit which arrives to keep tickets as cheap as possible. We rely on our speakers volunteering as well. 
-
-However we do have several options which hopefully suits your situation.
-
-* If your employer pays for your ticket and travel expenses, we will list them as a speaker sponsor. 
-* If you're paying your own way we can heavily discount your ticket
-* If you need financial assistance, we can cover your ticket and some of your travel costs. 
-* Something else? Let us know in the CFP form
+# More info
+For more info, you can [contact one of our organisers](/organisers/) or tweet us at [@campjs](mobile.twitter.com/campjs).

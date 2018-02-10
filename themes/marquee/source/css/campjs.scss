@@ -46,11 +46,6 @@ body{
   }
 }
 @media (min-width:1700px){
-  body{
-    background-attachment: fixed;
-    background-position: center top;
-    background-size:100%;
-  }
   .hero{
     min-height:700px;
     text-align:center;
@@ -69,7 +64,7 @@ body{
 }
 
 .hero{
-  background-position:center;
+  background-position: center top;
   background-size:cover;
 }
 
@@ -101,5 +96,14 @@ footer.bg-dark{
   a:hover,
   a:focus{
     color:white;
+  }
+}
+
+// Definition lists
+dl br{display:none;}
+dl dd{
+  margin-left:1em;
+  &:before{
+    content: "👉 ";
   }
 }
