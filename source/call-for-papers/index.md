@@ -27,7 +27,7 @@ This time around we are having two main tracks:
 Attendees will have the opportunity to choose between talks or workshops. Where possible we will align related talks and workshops so attendees can do both, and put speakers in touch with workshop organizers to collaborate when it makes sense.
 
 ## 🗣 Submit a talk
-We’re open to a wide range of topics relating to Javascript, frontend development, and the industry as a whole.
+We’re open to a wide range of topics relating to Javascript, web development, technology and the industry as a whole.
 
 <dl>
   <dt>Language</dt>
@@ -39,15 +39,15 @@ We’re open to a wide range of topics relating to Javascript, frontend developm
 Successful talks in the past have included elements of:
 
 * The latest developments in the Javascript world
-* Introductions to new frameworks & ideas (ideally which campers can build on through the weekend)
+* Introductions to new frameworks & ideas (ideally which campers can build on through the&nbsp;weekend)
 * New browser technologies and how they work
 * Making art with code (audio, video, games)
 * Your experiences getting stuff done
-* Server-side Javascript tech (NodeJS, serverless, Internet of Things)
+* Server-side Javascript tech (NodeJS, serverless, the cloud)
 * Reflection on the state of the industry
 * How to improve yourself as a developer
 * Virtual & augmented reality
-* Robotics & hardware
+* Hardware, robotics and Internet of Things
 * Infosec & keeping your apps safe
 * Anything else! This is your conference!
 
