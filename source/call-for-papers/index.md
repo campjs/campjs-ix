@@ -98,7 +98,7 @@ To achieve this our process for chosing speakers and workshops is as follows:
 1. Submissions are de-anonymised and the final schedule is chosen
 1. Speakers are notified at this time (regardless of the outcome)
 
-We're very keen to help speakers out as part of this process. If want feedback on your submission, please let us know and we will get back to you with any critique and feedback.
+We're very keen to help speakers out as part of this process. If you want feedback on your submission, please let us know and we will get back to you with any critique and feedback.
 
 # Code of conduct
 
