@@ -4,8 +4,7 @@ date: 2018-01-23
 heroImage: https://api.mapbox.com/styles/v1/mapbox/streets-v9/static/pin-s-building+285A98(153.270401,-28.228613)/153.34,-28.2,10,0/800x400@2x?access_token=pk.eyJ1IjoiYXNoa3lkIiwiYSI6ImNqY25haWgyaTBraDgyenFub21yYXEzZ3gifQ.K2j7J-jCiCUsDybuks_-zA&attribution=false
 ---
 
-CampJS IX will be held at <a href='http://koonjewarre.com'>Koonjewarre Camp, Queensland, Australia</a> (<a
-href='https://www.google.com.au/maps/place/Koonjewarre/@-28.228613,153.270401,15z/data=!4m5!3m4!1s0x0:0xb1b3c5350f23cbd2!8m2!3d-28.228613!4d153.270401'>map</a>). The venue is about 1.5hrs drive from Brisbane CBD, Gold Coast Hinterland.
+CampJS IX will be held at <a href='http://koonjewarre.com'>Koonjewarre Camp, Queensland, Australia</a> (<a href='https://www.google.com.au/maps/place/Koonjewarre/@-28.228613,153.270401,15z/data=!4m5!3m4!1s0x0:0xb1b3c5350f23cbd2!8m2!3d-28.228613!4d153.270401'>map</a>). The venue is about 1.5hrs drive from Brisbane CBD, Gold Coast Hinterland.
 
 
 The accommodation at Koonjewarre is dormitory style with around 12 beds per dorm, and shared showers and toilets per dorm. You will need to bring your own toiletries.
