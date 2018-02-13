@@ -25,7 +25,7 @@ If you have any specific dietary requirements please note the details on your re
 ## 🍻 Alcohol
 Beer and wine will be provided and small amounts of BYO alcohol are permitted.
 
-*You are expected to drink responsibly*. If you are intoxicated and your behaviour is causing concerns you will be given plenty of water and asked to go to bed.
+*You are expected to drink responsibly*.
 
 You may be asked to leave if your behaviour is impacting other campers or if you don&#39;t comply with organiser&#39;s requests.
 
