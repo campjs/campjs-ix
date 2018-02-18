@@ -1,12 +1,9 @@
 # Header
 menu:
-  Blog: https://medium.com/@campjs
   The Camp: /the-camp
-  Speakers: /speakers
-  Sponsors: /sponsors
-  Organisers: /organisers
-  Code of Conduct: /code-of-conduct
   Call for Papers: /call-for-papers
+  Help Organise: /organisers
+  Code of Conduct: /code-of-conduct
 menuFooter:
   Blog: https://medium.com/@campjs
   The Camp: /the-camp

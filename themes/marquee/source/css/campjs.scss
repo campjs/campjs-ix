@@ -107,3 +107,7 @@ dl dd{
     content: "👉 ";
   }
 }
+
+
+// hexo inserts breaks into divs, it's annoying. TODO: fix this
+.main-content div br{display:none;}
