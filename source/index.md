@@ -7,7 +7,7 @@ heroSubtitle: A JavaScript Hacker Retreat
 heroSubsubTitle: 10th-13th August 2018 Gold Coast Hinterlands
 heroAttribution: Photo by <a href="">Rodger Wang</a>
 layout: homepage
-video: <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4n3UMWHQE-o?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+video: <iframe src="https://player.vimeo.com/video/239374386?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 # buyLink: http://example.org
 ---
 <p class="lead">CampJS is a 3-night code retreat for anyone who is interested in web technology. Beginners &amp; experts, all are welcome.</p>
