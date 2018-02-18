@@ -3,8 +3,6 @@ title: Get in touch
 date: 2018-01-27 18:31:40
 layout: datagrid
 datagrid: organisers
-heroImage: /images/venue-koonjewarre/rodger-wang-2Y1A2772.jpg
-heroAttribution: Photo by Rodger Wang
 ---
 
 You can contact the CampJS organizers any of the following ways:
