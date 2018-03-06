@@ -1,5 +1,18 @@
 <% if(page.heroImage){ %>
-  <div class="hero with-text"  style="background-image: <% if(page.heroTitle){ %>radial-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0)),<% } %> url('<%= page.heroImage %>');">
+  <style>
+    #hero{
+      background-image: <% if(page.heroTitle){%>radial-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0)),<% } %>
+        url('<%= page.heroImage %>');
+    }
+    <% if(page.backgroundPositionMobile) {%>
+    @media (max-width:600px){
+      #hero{
+        background-position: <%= page.backgroundPositionMobile %>
+      }
+    }
+    <% } %>
+  </style>
+  <div id="hero" class="hero with-text"  style="">
     <% if(page.heroTitle){ %>
       <h1><%= page.heroTitle %></h1>
       <span class="subtitle mb-5"><%= page.heroSubtitle %></span>

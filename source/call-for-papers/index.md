@@ -1,8 +1,9 @@
 ---
 title: Call for Papers
 date: 2018-02-02
-heroImage: /images/venue-koonjewarre/rodger-wang-2Y1A2498.jpg
+heroImage: /images/venue-koonjewarre/speakers-montage.jpg
 heroAttribution: Photo by Rodger Wang
+backgroundPositionMobile: -130px 0;
 ---
 
 CampJS call for papers is now open! We are looking for both talks and workshops!
