@@ -6,29 +6,11 @@ items:
       email: garrows@campjs.com
       image: "/images/profiles/garrows.jpg"
     -
-      name: Anna Gerber
-      twitter: AnnaGerber
-      description: Scheduling and Zine
-      email: annagerber@campjs.com
-      image: "/images/profiles/AnnaGerber.jpg"
-    -
       name: Ash Kyd
       twitter: ashkyd
       description: General Organiser
       email: ash@campjs.com
       image: "/images/profiles/ashkyd.jpg"
-    -
-      name: Craig Sharkie
-      twitter: twalve
-      description: Sponsorships & Scholarships
-      email: sharkie@campjs.com
-      image: "/images/profiles/twalve.jpg"
-    -
-      name: Tim Oxley
-      twitter: secoif
-      description: Traditional Founding Father of CampJS
-      email: tim@campjs.com
-      image: "/images/profiles/secoif.jpg"
     -
       name: Kartik Gupta
       twitter: _kartikgupta_
@@ -36,10 +18,23 @@ items:
       email: kartik@campjs.com
       image: "/images/profiles/kartikgupta.jpg"
     -
-      name: Cathy Lill
-      twitter: cathyblabla
-      description: Advisor and Childcare Organisation
-      image: "/images/profiles/cathyblabla.jpg"
+      name: Tim Oxley
+      twitter: secoif
+      description: Traditional Founding Father of CampJS
+      email: tim@campjs.com
+      image: "/images/profiles/secoif.jpg"
+    -
+      name: Anna Gerber
+      twitter: AnnaGerber
+      description: General Busy Body
+      email: annagerber@campjs.com
+      image: "/images/profiles/AnnaGerber.jpg"
+    -
+      name: Craig Sharkie
+      twitter: twalve
+      description: General Busy Body
+      email: sharkie@campjs.com
+      image: "/images/profiles/twalve.jpg"
     -
       name: Maurice Butler
       twitter: butlermaurice
@@ -54,5 +49,5 @@ items:
     -
       name: Luke Brooker
       twitter: lukebrooker
-      description: CampJS Website
+      description: General Busy Body
       image: "/images/profiles/lukebrooker.jpg"

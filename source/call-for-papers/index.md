@@ -6,7 +6,7 @@ heroAttribution: Photo by Rodger Wang
 backgroundPositionMobile: -130px 0;
 ---
 
-CampJS call for papers is now open! We are looking for both talks and workshops!
+CampJS call for papers is now open! We are looking for both talks and workshops! This year, CampJS runs from 10-13th August at Koonjewarre, QLD. 
 
 <a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSfGGf4jZLf4SQNBljGxdxqtOZ7XR_sd4xFSoeZ8qpCJfMeY2A/viewform">Submit a talk/workshop</a>
 

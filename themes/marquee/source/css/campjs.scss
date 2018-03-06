@@ -6,6 +6,7 @@ body{
   width:100%;
   position:relative;
   padding-top:56.25%;
+
   iframe{
     position:absolute;
     left:0;
@@ -14,6 +15,7 @@ body{
     height:100%;
   }
 }
+
 @media (max-width:1699px){
   .hero{
     min-height:500px;
@@ -21,20 +23,24 @@ body{
     padding-top: 150px;
     color:white;
     text-shadow:0 0 20px black;
+
     h1{
       font-size:48px;
       font-weight:bold;
     }
+
     .subtitle{
       font-size:30px;
       font-weight:bold;
     }
+
     .sub-subtitle{
       font-size:30px;
       font-weight:bold;
     }
   }
 }
+
 @media (min-width:1700px){
   .hero{
     min-height:700px;
@@ -52,6 +58,7 @@ body{
     }
   }
 }
+
 @media (max-width:700px){
   .hero{
     min-height:300px;
@@ -67,6 +74,7 @@ body{
 .cover{
   background:white;
 }
+
 .cover-translucent{
   background:rgba(255,255,255,.8);
 }
@@ -107,3 +115,26 @@ dl dd{
 
 // hexo inserts breaks into divs, it's annoying. TODO: fix this
 .main-content div br{display:none;}
+
+._datagrid{
+  display: inline-block;
+
+  .card {
+    width: 200px;
+    display: inline-block;
+    height: 450px;
+    vertical-align: top;
+    margin-bottom: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
+  @media (max-width: 576px) {
+    display: block;
+    .card {
+      display: block;
+      margin: 0 auto;
+      margin-bottom: 20px;
+    }
+  }
+}
