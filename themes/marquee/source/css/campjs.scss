@@ -15,16 +15,6 @@ body{
   }
 }
 @media (max-width:1699px){
-  body{
-    background-attachment: fixed;
-    background-position: center top;
-    background-size:100%;
-  }
-  @media(max-width:1000px){
-    body{
-      background-size:auto 570px;
-    }
-  }
   .hero{
     min-height:500px;
     text-align:center;
@@ -32,7 +22,7 @@ body{
     color:white;
     text-shadow:0 0 20px black;
     h1{
-      font-size:60px;
+      font-size:48px;
       font-weight:bold;
     }
     .subtitle{
@@ -62,10 +52,16 @@ body{
     }
   }
 }
+@media (max-width:700px){
+  .hero{
+    min-height:300px;
+  }
+}
 
 .hero{
-  background-position: center top;
+  background-position: center;
   background-size:cover;
+  padding-bottom: 1px;
 }
 
 .cover{
