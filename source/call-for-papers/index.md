@@ -78,10 +78,17 @@ If you are running a workshop you are welcome to have your company sponsor the m
 
 Workshops are a great way to get involved and teach a skill. If you’re on the fence as to whether your proposal is a good fit, please submit it anyway!
 
-# 💸 What you get
-CampJS is a **volunteer run organisation** which arrives to keep tickets as cheap as possible. We rely on our speakers volunteering as well.
+## Run a side-activity
+We're always looking for people to run activities on the side.
 
-However we have several options which hopefully suit your situation:
+If you have a hobby you want to bring to camp (think bushwalking, drone flying, knitting, music) let us know:
+
+1. <a href="https://github.com/campjs/campjs-ix/issues/new">Create an issue</a> letting us know what your activity is
+1. Let us know how much time you're willing to set aside for it on the weekend (a couple of hours, a full day etc) and we'll add it to the schedule
+1. Don't forget to include some info about what your activity will be like, and what campers need to bring
+
+# 💸 What you get
+CampJS is a **volunteer run organisation** which tries to keep tickets as cheap as possible. However we have several options for speakers and workshop organizers which hopefully suit your situation:
 
 * If your employer pays for your ticket and travel expenses, we will list them as a speaker sponsor.
 * If you're paying your own way we can heavily discount your ticket
