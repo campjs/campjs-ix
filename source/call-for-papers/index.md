@@ -6,13 +6,13 @@ heroAttribution: Photo by Rodger Wang
 backgroundPositionMobile: -130px 0;
 ---
 
-CampJS call for papers is now open! We are looking for both talks and workshops! This year, CampJS runs from 10-13th August at Koonjewarre, QLD. 
+CampJS call for papers is now open! We are looking for both talks and workshops! This year, CampJS runs from 10-13th August at Koonjewarre, QLD.
 
 <a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSfGGf4jZLf4SQNBljGxdxqtOZ7XR_sd4xFSoeZ8qpCJfMeY2A/viewform">Submit a talk/workshop</a>
 
 Submissions close midnight 29th April 2018. You will hear back from us before 1st June.
 
-# The conference format
+# The (un)conference format
 
 Out in the wilderness, CampJS is a very laid back atmosphere and is a great opportunity for first time speakers!
 
@@ -87,13 +87,22 @@ If you have a hobby you want to bring to camp (think bushwalking, drone flying, 
 1. Let us know how much time you're willing to set aside for it on the weekend (a couple of hours, a full day etc) and we'll add it to the schedule
 1. Don't forget to include some info about what your activity will be like, and what campers need to bring
 
-# 💸 What you get
-CampJS is a **volunteer run organisation** which tries to keep tickets as cheap as possible. However we have several options for speakers and workshop organizers which hopefully suit your situation:
+Please note that side-activities are intended to be a bit of fun, so you'll still need to buy a ticket and get yourself to camp. If there are resources or materials required we may be able to help cover costs on a case-by-case basis.
 
-* If your employer pays for your ticket and travel expenses, we will list them as a speaker sponsor.
-* If you're paying your own way we can heavily discount your ticket
-* If you need financial assistance, we can cover your ticket and some of your travel costs.
-* Something else? Let us know in the CFP form
+# 💸 What you get
+If your talk or workshop is accepted at CampJS you get:
+
+1. We cover your ticket to CampJS, which includes
+1. Free meals through the weekend
+1. Accommodation in our comfy dorms
+1. The opportunity to hang out with a bunch of really awesome speakers and attendees, and make friends for life 😊
+
+CampJS is a **volunteer run organisation** which tries to keep tickets as cheap as possible. This means we can't generally cover the cost of your transport. However we have a few options available:
+
+* **Speaker sponsor**: If your employer pays your travel expenses, we will list them as a speaker sponsor and give them extra perks. When you're accepted we will provide you a sponsor pack to help convince your boss 👍
+* If you can't get your organization onboard with the speaker sponsor package and you're in need financial assistance, we will do our best to cover your travel costs but we will need to consider this on a case-by-case basis.
+
+We want you to be comfortable and have a great time, so if there's anything you need please get in touch with one of the organizers and we can work something out.
 
 ## How talks are chosen
 This year we will have fewer talks and have a commitment to improving diversity in our speakers.
