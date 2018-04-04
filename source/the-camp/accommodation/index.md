@@ -11,12 +11,7 @@ The accommodation at Koonjewarre is dormitory style with around 12 beds per dorm
 
 Bunks with mattresses are provided, but you will need to bring your own pillow, sleeping bag and linen.
 
-## Accomodation for couples
-If you and your partner are attending CampJS as a couple, you can opt to share a dorm in the family units.
-
-Family units are with 8 beds per room mixed-gender dorms which are only offered to folks bringing a partner who would prefer to remain together.
-
-Please let us know when booking so we can set aside enough rooms.
+The bulk of our accommodation is gender neutral, but we have other more specific options if you'd prefer:
 
 ## Womens dorms
 We have separated accommodation for women with their own bathrooms and common room.
