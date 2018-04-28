@@ -1,8 +1,6 @@
 ---
 title: Speakers
 date: 2018-01-23
-heroImage: /images/venue-koonjewarre/rodger-wang-2Y1A2498.jpg
-heroAttribution: Photo by Rodger Wang
 ---
 
 **!!! [Call for papers](/call-for-papers) is now open !!!**

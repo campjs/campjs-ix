@@ -1,7 +1,6 @@
 ---
 title: Become a sponsor
 date: 2018-01-23
-layout: datagrid
 datagrid: sponsors
 ---
 The only thing better than being involved in CampJS as a Camper is being involved as a Sponsor.

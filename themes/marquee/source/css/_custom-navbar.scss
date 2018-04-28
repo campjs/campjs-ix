@@ -1,0 +1,46 @@
+body{
+  padding-top:56px;
+}
+
+.navbar{
+  padding:0 !important;
+  font-family: monospace;
+
+  background: black;//linear-gradient(to left, #4bbf47, #3e863d);
+
+  .navbar-brand,
+  a.nav-link{
+    padding:8px;
+    line-height: 40px;
+    background: black;
+    color: white;
+  }
+
+  .navbar-brand {
+    padding-right: 1rem;
+    margin-right:0;
+    background: $yellow-light;
+    font-weight:bold;
+    color:black;
+    text-transform: uppercase;
+    border-left:0.5rem solid $yellow-light;
+    &:hover,
+    &:focus{
+      background:$pink-highlight;
+    }
+  }
+
+  .navbar-nav{
+    border:1rem solid black;
+    border-style: none solid;
+  }
+
+  a.nav-link{
+    padding: 8px 0.75rem !important;
+    letter-spacing: -1px;
+    &:hover,
+    &:focus{
+      text-decoration: underline;
+    }
+  }
+}
