@@ -1,7 +1,5 @@
 ---
 title: Diversity & Inclusiveness
-heroImage: /images/venue-koonjewarre/rodger-wang-2Y1A1045-narrow.jpg
-heroAttribution: Photo by <a href="">Rodger Wang</a>
 ---
 We value the diversity and inclusion of under-represented and marginalized people in tech.
 

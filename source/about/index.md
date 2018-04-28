@@ -2,26 +2,18 @@
 title: CampJS IX
 date: 2018-02-02
 heroImage: /images/venue-melb/group-photo.jpg
-heroTitle: CampJS IX
-heroSubtitle: A JavaScript Hacker Retreat
-heroSubsubTitle: 10th-13th August 2018 Gold Coast Hinterlands
 heroAttribution: Photo by <a href="">Rodger Wang</a>
 layout: homepage
 video: <iframe src="https://player.vimeo.com/video/239374386?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-# buyLink: http://example.org
 ---
 <p class="lead">CampJS is a 3-night code retreat for anyone who is interested in web technology. Beginners &amp; experts, all are welcome.</p>
 
 <div class="card mb-3">
 <div class="card-body">
 <div class="row">
-  <div class="col-md-6">
-    <h2>Call for Papers</h2>
-    <p><strong><a href="/call-for-papers">Call for papers</a> is now open.</strong> Submit a talk or a workshop!</p>
-  </div>
-  <div class="col-md-6">
+  <div class="col-md-12">
     <h2>Volunteers</h2>
-    <p>We're also <a href="/organisers">looking for volunteers</a>.</strong> Sign up to help out, or run an activity on the side.</p>
+    <p>We're <a href="/organisers">looking for volunteers</a>.</strong> Sign up to help out, or run an activity on the side.</p>
   </div>
 </div>
 </div>
