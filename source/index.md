@@ -3,7 +3,7 @@ title: CampJS IX 2018
 date: 2018-02-02
 layout: chromeless-page
 ---
-<!-- Interactive component -->
+<!-- Ehhh, screw content management. Let's make this page special ^_^ -->
 <div class="interactive-frame" style="width:100%;height:100vh">
   <div class="balloon" style="width:128px;height:128px;right:5%;top:10%;">
     <div class="body"></div>
