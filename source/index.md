@@ -1,65 +1,78 @@
 ---
-title: CampJS IX
+title: CampJS IX 2018
 date: 2018-02-02
-heroImage: /images/venue-melb/group-photo.jpg
-heroTitle: CampJS IX
-heroSubtitle: A JavaScript Hacker Retreat
-heroSubsubTitle: 10th-13th August 2018 Gold Coast Hinterlands
-heroAttribution: Photo by <a href="">Rodger Wang</a>
-layout: homepage
-video: <iframe src="https://player.vimeo.com/video/239374386?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-# buyLink: http://example.org
+layout: chromeless-page
 ---
-<p class="lead">CampJS is a 3-night code retreat for anyone who is interested in web technology. Beginners &amp; experts, all are welcome.</p>
+<!-- Ehhh, screw content management. Let's make this page special ^_^ -->
+<div class="interactive-frame" style="width:100%;height:100vh">
+  <div class="balloon" style="width:128px;height:128px;right:5%;top:10%;">
+    <div class="body"></div>
+    <div class="basket"></div>
+    <div class="alt">A hot air balloon bobs in the sunset sky.</div>
+  </div>
 
-<div class="card mb-3 bg-light">
-<div class="card-body">
+  <div class="tent left"
+       style="width:80px;height:80px;left:30%;top:70%;z-index:3;">
+    <div class="inner"></div>
+    <div class="shadow"></div>
+    <div class="alt">A tent on the hillside.</div>
+  </div>
+
+  <div class="tent right"
+       style="width:80px;height:80px;left:60%;top:60%;z-index:3;">
+    <div class="inner"></div>
+    <div class="shadow"></div>
+    <div class="alt">Another tent pitched near the first.</div>
+  </div>
+
+  <div class="campfire" style="position:absolute;;z-index:4;">
+      <div class="glow"></div>
+      <div class="logs"></div>
+      <div class="flame f1"></div>
+      <div class="flip"><div class="flame f2"></div></div>
+      <div class="flame f3"></div>
+      <div class="alt">A campfire crackles, illuminating the campsite.</div>
+  </div>
+
+  <div class="tree" style="top:45%;left:22%;z-index:2;"><div class="main"></div><div class="shadow"></div><div class="alt">A tree sways in the breeze</div></div>
+  <div class="tree" style="top:48%;left:10%;z-index:2;"><div class="main"></div><div class="shadow"></div><div class="alt">Another sways on yonder hill.</div></div>
+
+  <div class="hills"></div>
+
+  <div id="intro">
+    <h1>CampJS</h1>
+    <div class="date">10th-13th August 2018</div>
+    <div class="location">Gold Coast Hinterland</div>
+  </div>
+</div>
+
+<div class="container">
 <div class="row">
-  <div class="col-md-6">
-    <h2>Call for Papers</h2>
-    <p><strong><a href="/call-for-papers">Call for papers</a> is now open.</strong> Submit a talk or a workshop!</p>
+  <div class="col-md-8 offset-md-2 main-content mt-5">
+
+  <h2>CampJS is a 3-night code retreat for anyone who is interested in web technology.</h2>
+
+  <p class="mt-4">The 2018 camp will be held at Koonjewarre (in Springbrook), on the Gold Coast Hinterland. The official camp schedule includes talks and workshops, but attendees also run other activities like bushwalking, drone flying, and even knitting. <a href="/about/">More</a>.</p>
+
+  <div class="card mb-3">
+  <div class="card-body">
+  <h2>Watch this space…</h2>
+  <p>The <strong>Call for Proposals</strong> is now closed and we're excitedly reviewing the submissions.</p>
+  <p>Be the first to know when details are announced! Sign up for tidbits, schedule updates, ticket information!</p>
+  <!-- Begin MailChimp Signup Form -->
+  <form action="https://campjs.us17.list-manage.com/subscribe/post?u=9e86f175da4d21a075d7c3e68&amp;id=da991fb395" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="form-inline" target="_blank" novalidate>
+  	<label for="mce-EMAIL" class="sr-only">Email Address</label>
+  	<input type="email" value="" name="EMAIL" class="required email mr-2" id="mce-EMAIL" placeholder="email address">
+  		<div class="response" id="mce-error-response" style="display:none"></div>
+  		<div class="response" id="mce-success-response" style="display:none"></div>
+      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9e86f175da4d21a075d7c3e68_da991fb395" tabindex="-1" value=""></div>
+      <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+      </div>
+  </form>
+
   </div>
-  <div class="col-md-6">
-    <h2>Volunteers</h2>
-    <p>We're also <a href="/organisers">looking for volunteers</a>.</strong> Sign up to help out, or run an activity on the side.</p>
   </div>
-</div>
-</div>
-</div>
 
-Networking with other developers is arguably the most valuable aspect of a conference, yet it’s often a fleeting affair that happens in-between a conference schedule. But CampJS isn’t a regular conference. This weekend-long retreat allows everyone enough time to learn new things, relax and most importantly: create real friendships and connections.
-
-CampJS creates a unique blend of expert-led, structured content and self-directed, unstructured learning. Some content is scheduled, but the main area is reserved for hacking. The final night is reserved for demos for people to show off what they have built or learned at the event
-
-<h2>🤔 <a href="/the-camp/">How does it work</a></h2>
-
-Campers arrive on the Friday, find a bunk, and set up laptops & equipment in the main hall.
-
-Womens, mens, couples and family dorm-style accommodation is provided, but more adventurous campers can bring a tent and rough it on the grounds of Koonjewarre.
-
-Food and drink are included in the price, as well as <a href='/the-camp/accommodation'>comfortable accommodation</a> for the three nights of the event.
-
-## 🙋 Join us!
-CampJS is committed to <a href="/diversity-inclusiveness">diversity &amp; inclusiveness</a>. Whether you're a Javascript veteran, total newbie, or even more into art, music or hardware, there's something for everyone at CampJS.
-
-The official camp schedule includes tech talks and Javascript workshops, but attendees also run other activities like bushwalking, drone flying, and even knitting. If you have an idea and want to run a side-event, <a href="/organisers">let us know!</a>
-
-To get a vibe for the event, check out the videos from previous camps
-
-<div class="card mb-3 bg-light">
-<div class="card-body">
-<h2>Email updates</h2>
-<p>Be the first to know. Sign up for CampJS news, info, and ticket information.</p>
-<!-- Begin MailChimp Signup Form -->
-<form action="https://campjs.us17.list-manage.com/subscribe/post?u=9e86f175da4d21a075d7c3e68&amp;id=da991fb395" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="form-inline" target="_blank" novalidate>
-	<label for="mce-EMAIL" class="sr-only">Email Address</label>
-	<input type="email" value="" name="EMAIL" class="required email mr-2" id="mce-EMAIL" placeholder="email address">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9e86f175da4d21a075d7c3e68_da991fb395" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-
+  </div>
 </div>
 </div>

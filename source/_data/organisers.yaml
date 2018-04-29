@@ -2,43 +2,43 @@ items:
     -
       name: Glen Arrowsmith
       twitter: garrows
-      description: General Organiser
+      description: Current CampJS head organizing machine. Recently Glen and his partner Jodi had a new baby boy 🎉.
       email: garrows@campjs.com
       image: "/images/profiles/garrows.jpg"
     -
-      name: Ash Kyd
-      twitter: ashkyd
-      description: General Organiser
-      email: ash@campjs.com
-      image: "/images/profiles/ashkyd.jpg"
-    -
       name: Kartik Gupta
       twitter: _kartikgupta_
-      description: General Organiser
+      description: Recent Sydney transplant, now in Brisbane and helping put together the next camp. Total Ember tragic.
       email: kartik@campjs.com
       image: "/images/profiles/kartikgupta.jpg"
     -
+      name: Ash Kyd
+      twitter: ashkyd
+      description: Rainbow representative, wants to keep CampJS a safe and awesome experience for everyone.
+      email: ash@campjs.com
+      image: "/images/profiles/ashkyd.jpg"
+    -
       name: Tim Oxley
       twitter: secoif
-      description: Traditional Founding Father of CampJS
+      description: Now based in Singapore, but immortalized forever as the traditional founding father of CampJS.
       email: tim@campjs.com
       image: "/images/profiles/secoif.jpg"
     -
       name: Anna Gerber
       twitter: AnnaGerber
-      description: General Busy Body
+      description: Long-time contributor since CampJS I. Can often be found taming robots.
       email: annagerber@campjs.com
-      image: "/images/profiles/AnnaGerber.jpg"
+      image: "/images/profiles/annagerber.jpg"
     -
       name: Craig Sharkie
       twitter: twalve
-      description: General Busy Body
+      description: Organizer of SydJS and key Sydney representative.
       email: sharkie@campjs.com
       image: "/images/profiles/twalve.jpg"
     -
       name: Maurice Butler
       twitter: butlermaurice
-      description: General Busy Body
+      description: Not actively involved in organizing any more, but the person we go to when stuff needs to be done.
       email: mauricebutler@campjs.com
       image: "/images/profiles/butlermaurice.jpg"
     -
@@ -46,8 +46,3 @@ items:
       twitter: adam__brady
       description: General Busy Body
       image: "/images/profiles/adam__brady.png"
-    -
-      name: Luke Brooker
-      twitter: lukebrooker
-      description: General Busy Body
-      image: "/images/profiles/lukebrooker.jpg"

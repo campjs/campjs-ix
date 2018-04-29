@@ -84,3 +84,14 @@ deploy:
 
 sitemap:
     path: sitemap.xml
+
+# quit putting line breaks everywhere!@#!@#
+marked:
+  breaks: false
+
+clean_css:
+  exclude:
+
+autoprefixer:
+  browsers:
+    - 'safari 11'

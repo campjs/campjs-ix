@@ -1,0 +1,17 @@
+.btn{
+  text-transform: uppercase;
+  box-shadow: 5px 5px 0 black;
+  display:inline-block;
+  background:$yellow-light;
+  color:black;
+  text-decoration: none;
+  &:focus,
+  &:hover{
+    box-shadow: 0 0 0 black;
+    transform: translate(5px, 5px);
+    text-decoration: none;
+  }
+}
+.btn-primary{
+  background: $pink-highlight;
+}
