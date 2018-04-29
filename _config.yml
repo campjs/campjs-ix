@@ -91,3 +91,7 @@ marked:
 
 clean_css:
   exclude:
+
+autoprefixer:
+  browsers:
+    - 'safari 11'
