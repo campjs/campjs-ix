@@ -14,9 +14,7 @@ Bunks with mattresses are provided, but you will need to bring your own pillow, 
 The bulk of our accommodation is gender neutral, but we have other more specific options if you'd prefer:
 
 ## Womens dorms
-We have separated accommodation for women with their own bathrooms and common room.
-
-If you are bringing a partner you're welcome to choose either the womens dorms or couples accommodation. Please let us know when booking so we can set aside enough rooms.
+The camp has dedicated accommodation for women, each with a separate bathroom and common room. You may also choose to bunk in the regular dorms should you wish.
 
 Bathrooms in the common areas of the camp are non gendered and attendees are supported in using the accommodation and bathroom options that they are comfortable with.
 

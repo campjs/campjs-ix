@@ -52,7 +52,7 @@ layout: chromeless-page
 
   <h2>CampJS is a 3-night code retreat for anyone who is interested in web technology.</h2>
 
-  <p class="mt-4">The 2018 camp will be held at Koonjewarre, on the Gold Coast Hinterland. The official camp schedule includes talks and workshops, but attendees also run other activities like bushwalking, drone flying, and even knitting. <a href="/about/">More</a>.</p>
+  <p class="mt-4">The 2018 camp will be held at Koonjewarre (in Springbrook), on the Gold Coast Hinterland. The official camp schedule includes talks and workshops, but attendees also run other activities like bushwalking, drone flying, and even knitting. <a href="/about/">More</a>.</p>
 
   <div class="card mb-3">
   <div class="card-body">
