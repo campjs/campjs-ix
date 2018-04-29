@@ -84,7 +84,3 @@ deploy:
 
 sitemap:
     path: sitemap.xml
-
-# quit putting line breaks everywhere!@#!@#
-marked:
-  breaks: false

@@ -1,5 +1,7 @@
 ---
 title: Diversity & Inclusiveness
+heroImage: /images/venue-koonjewarre/rodger-wang-2Y1A1045.jpg
+heroAttribution: Photo by <a href="">Rodger Wang</a>
 ---
 We value the diversity and inclusion of under-represented and marginalized people in tech.
 
@@ -17,4 +19,5 @@ Koonjewarre provides ramps, accessible bathrooms and shower chairs and welcomes 
 This year we've spoken to the community and have a number of diversity initiatives to make CampJS a more welcoming place.
 
 * Diversity tickets for underrepresented groups
+* First-timer discount so newbies have a better opportunity to attend
 * More to come, watch this space

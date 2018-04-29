@@ -1,9 +1,11 @@
 ---
 title: Speakers
 date: 2018-01-23
+heroImage: /images/venue-koonjewarre/rodger-wang-2Y1A2498.jpg
+heroAttribution: Photo by Rodger Wang
 ---
 
-We're currently finalising the speaker list. Stay tuned!
+**!!! [Call for papers](/call-for-papers) is now open !!!**
 
 In the mean time, check our some of our talks & workshops from previous Camps.
 

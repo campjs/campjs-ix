@@ -1,7 +1,25 @@
 <% if(page.heroImage){ %>
-<div class="container">
+  <style>
+    #hero{
+      background-image: <% if(page.heroTitle){%>radial-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0)),<% } %>
+        url('<%= page.heroImage %>');
+    }
+    <% if(page.backgroundPositionMobile) {%>
+    @media (max-width:600px){
+      #hero{
+        background-position: <%= page.backgroundPositionMobile %>
+      }
+    }
+    <% } %>
+  </style>
   <div id="hero" class="hero with-text"  style="">
-    <img src="<%= page.heroImage %>" alt="">
+    <% if(page.heroTitle){ %>
+      <h1><%= page.heroTitle %></h1>
+      <span class="subtitle mb-5"><%= page.heroSubtitle %></span>
+      <p class="sub-subtitle mb-5"><%= page.heroSubsubTitle %></p>
+    <% } %>
+    <% if(page.buyLink) { %>
+      <div><a class="btn-primary button-call-to-action" href="<%= page.buyLink %>">Buy Ticket</a></div>
+    <% } %>
   </div>
-</div>
 <% } %>
