@@ -42,7 +42,7 @@ layout: chromeless-page
   <div id="intro">
     <h1>CampJS</h1>
     <div class="date">10th-13th August 2018</div>
-    <div class="location">Gold Coast Hinterlands</div>
+    <div class="location">Gold Coast Hinterland</div>
   </div>
 </div>
 
@@ -52,7 +52,7 @@ layout: chromeless-page
 
   <h2>CampJS is a 3-night code retreat for anyone who is interested in web technology.</h2>
 
-  <p class="mt-4">The 2018 camp will be held at Koonjewarre, on the Gold Coast Hinterlands. The official camp schedule includes talks and workshops, but attendees also run other activities like bushwalking, drone flying, and even knitting. <a href="/about/">More</a>.</p>
+  <p class="mt-4">The 2018 camp will be held at Koonjewarre, on the Gold Coast Hinterland. The official camp schedule includes talks and workshops, but attendees also run other activities like bushwalking, drone flying, and even knitting. <a href="/about/">More</a>.</p>
 
   <div class="card mb-3">
   <div class="card-body">
