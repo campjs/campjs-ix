@@ -88,3 +88,6 @@ sitemap:
 # quit putting line breaks everywhere!@#!@#
 marked:
   breaks: false
+
+clean_css:
+  exclude:
