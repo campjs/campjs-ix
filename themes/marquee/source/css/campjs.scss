@@ -1,6 +1,31 @@
-body{
-  padding-top:56px;
+$yellow-light: #f7df1e;
+$pink-highlight: #ff2a7f;
+$dark: black;
+
+$link-color:                #7A6C06;
+$link-decoration:           none;
+$link-hover-color:          black;
+$link-hover-decoration:     underline;
+
+a {
+  color: $link-color;
+  text-decoration: $link-decoration;
+
+  &:hover,
+  &:focus {
+    color: $link-hover-color;
+    text-decoration: $link-hover-decoration;
+  }
 }
+
+
+@import "./bootstrap";
+@import "./custom-navbar";
+@import "./datagrid";
+@import "./card";
+@import "./buttons";
+@import "./hero";
+@import "./feature-campsite";
 
 .video{
   width:100%;
@@ -16,61 +41,6 @@ body{
   }
 }
 
-@media (max-width:1699px){
-  .hero{
-    min-height:500px;
-    text-align:center;
-    padding-top: 150px;
-    color:white;
-    text-shadow:0 0 20px black;
-
-    h1{
-      font-size:48px;
-      font-weight:bold;
-    }
-
-    .subtitle{
-      font-size:30px;
-      font-weight:bold;
-    }
-
-    .sub-subtitle{
-      font-size:30px;
-      font-weight:bold;
-    }
-  }
-}
-
-@media (min-width:1700px){
-  .hero{
-    min-height:700px;
-    text-align:center;
-    padding-top: 300px;
-    color:white;
-    text-shadow:0 0 90px black;
-    h1{
-      font-size:150px;
-      font-weight:bold;
-    }
-    .subtitle{
-      font-size:50px;
-      font-weight:bold;
-    }
-  }
-}
-
-@media (max-width:700px){
-  .hero{
-    min-height:300px;
-  }
-}
-
-.hero{
-  background-position: center;
-  background-size:cover;
-  padding-bottom: 1px;
-}
-
 .cover{
   background:white;
 }
@@ -84,7 +54,6 @@ body{
     columns: 4;
   }
 }
-
 
 .button-call-to-action{
   border-radius:15px;
@@ -116,25 +85,18 @@ dl dd{
 // hexo inserts breaks into divs, it's annoying. TODO: fix this
 .main-content div br{display:none;}
 
-._datagrid{
-  display: inline-block;
-
-  .card {
-    width: 200px;
-    display: inline-block;
-    height: 450px;
-    vertical-align: top;
-    margin-bottom: 20px;
-    margin-left: 5px;
-    margin-right: 5px;
+h1,h2,h3,.h1,.h2,.h3{
+  // font-family: monospace;
+  .main-content > &{
+    border-bottom:3px solid $yellow-light;
   }
-
-  @media (max-width: 576px) {
-    display: block;
-    .card {
-      display: block;
-      margin: 0 auto;
-      margin-bottom: 20px;
-    }
+  .main-content > * + &{
+    margin-top:3rem;
   }
+}
+
+
+.btn{
+  font-family: monospace;
+  padding:10px 20px;
 }
