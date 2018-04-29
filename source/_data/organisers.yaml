@@ -2,43 +2,43 @@ items:
     -
       name: Glen Arrowsmith
       twitter: garrows
-      description: Current CampJS head organizing machine. Recently Glen and his partner Jodi had a new baby boy 🎉.
+      description: General Organiser
       email: garrows@campjs.com
       image: "/images/profiles/garrows.jpg"
     -
-      name: Kartik Gupta
-      twitter: _kartikgupta_
-      description: Recent Sydney transplant, now in Brisbane and helping put together the next camp. Total Ember tragic.
-      email: kartik@campjs.com
-      image: "/images/profiles/kartikgupta.jpg"
-    -
       name: Ash Kyd
       twitter: ashkyd
-      description: Rainbow representative, wants to keep CampJS a safe and awesome experience for everyone.
+      description: General Organiser
       email: ash@campjs.com
       image: "/images/profiles/ashkyd.jpg"
     -
+      name: Kartik Gupta
+      twitter: _kartikgupta_
+      description: General Organiser
+      email: kartik@campjs.com
+      image: "/images/profiles/kartikgupta.jpg"
+    -
       name: Tim Oxley
       twitter: secoif
-      description: Now based in Singapore, but immortalized forever as the traditional founding father of CampJS.
+      description: Traditional Founding Father of CampJS
       email: tim@campjs.com
       image: "/images/profiles/secoif.jpg"
     -
       name: Anna Gerber
       twitter: AnnaGerber
-      description: Long-time contributor since CampJS I. Can often be found taming robots.
+      description: General Busy Body
       email: annagerber@campjs.com
       image: "/images/profiles/AnnaGerber.jpg"
     -
       name: Craig Sharkie
       twitter: twalve
-      description: Organizer of SydJS and key Sydney representative.
+      description: General Busy Body
       email: sharkie@campjs.com
       image: "/images/profiles/twalve.jpg"
     -
       name: Maurice Butler
       twitter: butlermaurice
-      description: Not actively involved in organizing any more, but the person we go to when stuff needs to be done.
+      description: General Busy Body
       email: mauricebutler@campjs.com
       image: "/images/profiles/butlermaurice.jpg"
     -
