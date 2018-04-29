@@ -6,13 +6,9 @@ heroAttribution: Photo by Rodger Wang
 lastYearsContent: https://github.com/campjs/campjs-ix/blob/9e85dd60fba080e5ed51bb1187849e52abe21ff9/source/call-for-papers/index.md
 ---
 
-CampJS call for papers is now open! We are looking for both talks and workshops! This year, CampJS runs from 10-13th August at Koonjewarre, QLD.
+Submissions for talks and workshops closed midnight of April 29! But you can still run a side activity if you'd like.
 
-<a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSfGGf4jZLf4SQNBljGxdxqtOZ7XR_sd4xFSoeZ8qpCJfMeY2A/viewform">Submit a talk/workshop</a>
-
-Submissions close midnight 29th April 2018. You will hear back from us before 1st June.
-
-# The (un)conference format
+## The (un)conference format
 
 Out in the wilderness, CampJS is a very laid back atmosphere and is a great opportunity for first time speakers!
 
@@ -26,10 +22,6 @@ This time around we are having two main tracks:
 </dl>
 
 Attendees will have the opportunity to choose between talks or workshops. Where possible we will align related talks and workshops so attendees can do both, and put speakers in touch with workshop organizers to collaborate when it makes sense.
-
-## 🗣 Submit a talk or workshop
-Submissions closed midnight of April 29! But you can still run a side activity if you'd like.
-
 
 ## Run a side-activity
 We're always looking for people to run activities on the side.
