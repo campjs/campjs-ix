@@ -2,10 +2,10 @@ $yellow-light: #f7df1e;
 $pink-highlight: #ff2a7f;
 $dark: black;
 
-$link-color:                #7A6C06;
-$link-decoration:           none;
-$link-hover-color:          black;
-$link-hover-decoration:     underline;
+$link-color: #7a6c06;
+$link-decoration: none;
+$link-hover-color: black;
+$link-hover-decoration: underline;
 
 a {
   color: $link-color;
@@ -18,7 +18,6 @@ a {
   }
 }
 
-
 @import "./bootstrap";
 @import "./custom-navbar";
 @import "./datagrid";
@@ -26,82 +25,89 @@ a {
 @import "./buttons";
 @import "./hero";
 @import "./feature-campsite";
+@import "./schedule";
 
-.video{
-  width:100%;
-  position:relative;
-  padding-top:56.25%;
+.video {
+  width: 100%;
+  position: relative;
+  padding-top: 56.25%;
 
-  iframe{
-    position:absolute;
-    left:0;
-    top:0;
-    width:100%;
-    height:100%;
+  iframe {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
   }
 }
 
-.cover{
-  background:white;
+.cover {
+  background: white;
 }
 
-.cover-translucent{
-  background:rgba(255,255,255,.8);
+.cover-translucent {
+  background: rgba(255, 255, 255, 0.8);
 }
 
-.card-columns-4{
-  @media (min-width:940px){
+.card-columns-4 {
+  @media (min-width: 940px) {
     columns: 4;
   }
 }
 
-.button-call-to-action{
-  border-radius:15px;
-  font-size:40px;
-  border:3px solid white;
-  padding:20px 40px;
+.button-call-to-action {
+  border-radius: 15px;
+  font-size: 40px;
+  border: 3px solid white;
+  padding: 20px 40px;
 }
 
-footer.bg-dark{
-  color:white;
+footer.bg-dark {
+  color: white;
 
   a,
   a:hover,
-  a:focus{
-    color:white;
+  a:focus {
+    color: white;
   }
 }
 
 // Definition lists
-dl br{display:none;}
-dl dd{
-  margin-left:1em;
-  &:before{
+dl br {
+  display: none;
+}
+dl dd {
+  margin-left: 1em;
+  &:before {
     content: "👉 ";
   }
 }
 
-
 // hexo inserts breaks into divs, it's annoying. TODO: fix this
-.main-content div br{display:none;}
+.main-content div br {
+  display: none;
+}
 
-h1,h2,h3,.h1,.h2,.h3{
+h1,
+h2,
+h3,
+.h1,
+.h2,
+.h3 {
   // font-family: monospace;
-  .main-content > &{
-    border-bottom:3px solid $yellow-light;
+  .main-content > & {
+    border-bottom: 3px solid $yellow-light;
   }
-  .main-content > * + &{
-    margin-top:3rem;
+  .main-content > * + & {
+    margin-top: 3rem;
   }
 }
 
-
-.btn{
+.btn {
   font-family: monospace;
-  padding:10px 20px;
+  padding: 10px 20px;
 }
 
-
-footer p{
-  opacity:0.5;;
+footer p {
+  opacity: 0.5;
 }

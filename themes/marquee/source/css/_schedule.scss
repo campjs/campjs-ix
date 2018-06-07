@@ -1,0 +1,50 @@
+.day h2 {
+  border-left: 10px solid $pink-highlight;
+  padding-left: 10px;
+}
+
+.stream {
+  table,
+  td,
+  tr,
+  tbody,
+  thead {
+    display: block;
+    position: static;
+  }
+  thead {
+    position: absolute;
+    width: 0;
+    overflow: hidden;
+  }
+  table,
+  tr {
+    width: 100%;
+  }
+  tr {
+    border-bottom: 1px solid grey;
+    padding: 10px 0 10px 3.3em;
+  }
+  .time,
+  .title,
+  .location {
+    display: inline-block;
+  }
+  .time {
+    font-weight: bold;
+    margin-left: -3.3em;
+    position: absolute;
+  }
+  .title {
+    opacity: 0.9;
+  }
+  .location {
+    font-weight: bold;
+  }
+
+  &[data-name*="bus"] {
+    h3:before {
+      content: "🚍 ";
+    }
+  }
+}

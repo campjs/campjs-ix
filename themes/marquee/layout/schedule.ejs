@@ -1,0 +1,74 @@
+<%- partial('_partial/hero', {page}) %>
+<div class="container pt-5">
+  <div class="row">
+    <div class="col-md-8 offset-md-2 main-content">
+      <%- partial('_partial/page', {post: page}) %>
+      <%
+        // Haha let's abuse some templates ^_^
+        // Parse CSV
+        var rawEvents = site.data.schedule
+          .split('\n')
+          .map(row => row.split('\t'))
+          .filter(a => a[0]);
+        var headings = rawEvents.shift().map(c => c.toLowerCase());
+
+        // Split out our events into days & streams
+        var days = [];
+        var events = rawEvents.map(row => {
+          // Convert event into an object
+          var event = {};
+          headings.forEach((heading, i) => event[heading] = row[i]);
+          event.hour = event.time.split(':')[0];
+
+          // Split into days
+          var thisDay = days.find(day => day.name === event.day);
+          if(!thisDay) {
+            thisDay = {name: event.day, streams: []};
+            days.push(thisDay);
+          }
+
+          // Split into streams in each day
+          var thisStream = thisDay.streams.find(stream => stream.name === event.stream);
+          if(!thisStream) {
+            thisStream = {name: event.stream, events: []};
+            thisDay.streams.push(thisStream);
+          }
+
+          thisStream.events.push(event);
+          return event;
+        });
+      %>
+
+      <% days.forEach(day => { %>
+        <div class="day mb-5 mt-5" data-name="<%= day.name %>">
+          <h2 class="mb-3"><%= day.name %></h2>
+          <% day.streams.forEach(stream => { %>
+            <div class="stream mb-5" data-name="<%= stream.name %>">
+              <% if(stream.name) { %><h3><%= stream.name %></h3><% } %>
+              <table>
+                <thead>
+                  <tr class="heading">
+                    <th class="time">Time</th>
+                    <th class="location">Location</th>
+                    <th class="title">Event</th>
+                    <th class="description">Description</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <% stream.events.forEach(event => { %>
+                    <tr class="<%= event.type %> hour-<%= event.hour %>">
+                      <td class="time"><%= event.time %></td>
+                      <td class="location"><%= event.location %></td>
+                      <td class="title"><%= event.title %></td>
+                      <td class="description"><%= event.description %></td>
+                    </tr>
+                  <% }) %>
+                </tbody>
+              </table>
+            </div>
+          <% }) %>
+        </div>
+      <% }) %>
+    </div>
+  </div>
+</div>
