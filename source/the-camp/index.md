@@ -21,11 +21,9 @@ All meals are catered by Koonjewarre Camp, snacks, tea and coffee, juice, water 
 If you have any specific dietary requirements please note the details on your registration form. We are able to cater to most requirements given prior notice.
 
 ## 🍻 Alcohol
-Beer and wine will be provided and small amounts of BYO alcohol are permitted.
+Assorted soft drinks and other beverages will provided through the weekend. You may bring a personal supply of BYO alcohol for yourself. We're currently investigating the legalities of providing alcohol but can't commit to anything at this time.
 
-*You are expected to drink responsibly*.
-
-You may be asked to leave if your behaviour is impacting other campers or if you don&#39;t comply with organiser&#39;s requests.
+*You are expected to drink responsibly*. You may be asked to leave if your behaviour is impacting other campers or if you don&#39;t comply with organiser&#39;s requests.
 
 ## 🎒 What to bring
 While some essentials are
