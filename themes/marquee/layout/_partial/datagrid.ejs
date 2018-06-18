@@ -2,11 +2,11 @@
 <% if (data) {
   data.forEach(function(item){ %>
     <div class="card">
-      <img class="card-img-top" src="<%- item.image %>" alt="<%= item.name %>">
+      <img class="card-img-top hex" src="<%- item.image %>" alt="<%= item.name %>">
       <div class="card-body">
         <h3 class="h5">
           <% if(item.link) { %>
-            <a href="<%= item.link %>"<%= item.name %></a>
+            <a href="<%= item.link %>"><%= item.name %></a>
           <% } else { %>
             <%= item.name %>
           <% } %>
