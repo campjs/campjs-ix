@@ -1,0 +1,43 @@
+.speaker-list {
+  .row {
+    background: linear-gradient(#ff2a7f, #f7df1e 80%);
+    padding: 10px;
+    .speaker-bio {
+      background: white;
+    }
+  }
+  h2 {
+    // font-size: 4em;
+    // font-weight: bold;
+    font-family: monospace;
+  }
+  h3 {
+    font-weight: bold;
+    font-family: monospace;
+  }
+
+  .bio {
+    font-style: italic;
+  }
+
+  .label {
+    text-transform: uppercase;
+    background: #3e863d;
+    color: white;
+    font-family: monospace;
+    letter-spacing: 1.5;
+    padding: 0 10px;
+    font-size: 0.8em;
+    box-shadow: 10px 10px 0 #6bbf47;
+    margin-top: -10px;
+    position: relative;
+    top: -8px;
+  }
+}
+
+.speaker-container {
+  background: linear-gradient(
+    #ff2a7f,
+    #f7df1e 50%
+  ); //linear-gradient(#6bbf47, #3e863d 300px, #000);
+}

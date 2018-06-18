@@ -1,6 +1,8 @@
 ---
 title: Speakers
 date: 2018-01-23
+layout: speakers
+datagrid: sessions
 ---
 
 We're currently finalising the speaker list. Stay tuned!

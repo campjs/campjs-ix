@@ -26,6 +26,7 @@ a {
 @import "./hero";
 @import "./feature-campsite";
 @import "./schedule";
+@import "./speakers";
 
 .video {
   width: 100%;
@@ -110,4 +111,9 @@ h3,
 
 footer p {
   opacity: 0.5;
+}
+
+.hex {
+  border-radius: 0;
+  clip-path: polygon(50% 0%, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%);
 }

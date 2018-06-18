@@ -1,58 +1,53 @@
-.datagrid-row{
-  background:linear-gradient(#6bbf47, #3e863d 60%);
-  padding:2rem;
-  margin-top:2rem;
+.datagrid-row {
+  background: linear-gradient(#6bbf47, #3e863d 60%);
+  padding: 2rem;
+  margin-top: 2rem;
   clip-path: polygon(0 40px, 0 100%, 100% 100%, 100% 40px, 90% 0);
 }
 
-
-._datagrid{
+._datagrid {
   display: inline-block;
   text-align: center;
 
   .card {
     width: 250px;
     display: inline-block;
-    min-height:415px;
+    min-height: 415px;
     text-align: left;
     vertical-align: top;
     margin-bottom: 20px;
     margin-left: 5px;
     margin-right: 5px;
-    background:white;
-    border:none;
+    background: white;
+    border: none;
     border-radius: 0;
-    background:transparent;
-    color:white;
-    font-size:0.9rem;
+    background: transparent;
+    color: white;
+    font-size: 0.9rem;
   }
-  .card img{
-    border-radius: 0;
-    clip-path: polygon(50% 0%, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%);
-  }
-  h3{
+  h3 {
     background: $yellow-light;
-    color:black;
+    color: black;
     font-family: monospace;
     text-transform: uppercase;
     position: absolute;
-    transform: translate(0,195px) rotate(29deg);
-    width:130px;
-    transform-origin:bottom left;
+    transform: translate(0, 195px) rotate(29deg);
+    width: 130px;
+    transform-origin: bottom left;
     bottom: 100%;
-    left:13px;
+    left: 13px;
   }
 
-  p{
-    margin-bottom:5px;
+  p {
+    margin-bottom: 5px;
   }
 
-  a{
-    color:white;
+  a {
+    color: white;
   }
   a:hover,
-  a:active{
-    color:white;
+  a:active {
+    color: white;
   }
 
   @media (max-width: 576px) {
