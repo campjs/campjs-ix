@@ -26,7 +26,7 @@ Families & children are always welcome at CampJS.
 
 Limited numbers of private rooms are available for families to share, or you might choose to stay at alternative accommodation nearby.
 
-If you are bringing your family to stay in CampJS accomodation, please specify a family ticket when booking to ensure you can reserve a spot.
+If you are bringing your family to stay in CampJS accomodation, please email <a href='mailto:organisers-team@campjs.com'>organisers [hyphen] team [at] campjs [dot] com</a> with details around how many adults and children will be in your family, if you require childcare and any other requirements you may have.
 
 Depending on space & ticket sales, families still might have to share a room with other families.
 
