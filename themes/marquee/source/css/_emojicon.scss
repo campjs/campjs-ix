@@ -1,0 +1,27 @@
+// <div class="emojicon hex background-pink">🚍</div>
+.emojicon {
+  font-size: 40px;
+  width: 64px;
+  height: 64px;
+  text-align: center;
+  line-height: 64px;
+  text-shadow: 2px 0 0 white;
+  float: left;
+  margin-right: 10px;
+  // Hack to make the floaty thing on the The Camp page work
+  & + p {
+    margin-right: 10px;
+  }
+}
+
+.background-pink {
+  background: $pink-highlight;
+}
+
+.background-green {
+  background: linear-gradient(to bottom right, #6bbf47, #3e863d);
+}
+
+.background-yellow {
+  background: $yellow-light;
+}
