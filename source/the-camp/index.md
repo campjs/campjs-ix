@@ -57,7 +57,7 @@ provided, there's a few things you will need to bring for yourself.
 * A good attitude (make sure to read our <a href="/code-of-conduct/">Code of Conduct</a>)
 * Anything else you need to survive the weekend
 
-# Getting there
+## Getting there
 
 <div class="row">
 
