@@ -40,9 +40,3 @@ items:
       description: Now based in Singapore, but immortalized forever as the traditional founding father of CampJS.
       email: tim@campjs.com
       image: "/images/profiles/secoif.jpg"
-
-      +      name:
-+      twitter:
-+      description:
-+      email: siranimcneill020@gmail.com
-+      image: "/images/profiles/adam__brady.png"
