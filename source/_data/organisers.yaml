@@ -1,11 +1,5 @@
 items:
     -
-      name: Glen Arrowsmith
-      twitter: garrows
-      description: Current CampJS head organizing machine. Recently Glen and his partner Jodie had a new baby boy 🎉.
-      email: garrows@campjs.com
-      image: "/images/profiles/garrows.jpg"
-    -
       name: Kartik Gupta
       twitter: _kartikgupta_
       description: Recent Sydney transplant, now in Brisbane and helping put together the next camp. Total Ember tragic.
@@ -18,11 +12,11 @@ items:
       email: ash@campjs.com
       image: "/images/profiles/ashkyd.jpg"
     -
-      name: Tim Oxley
-      twitter: secoif
-      description: Now based in Singapore, but immortalized forever as the traditional founding father of CampJS.
-      email: tim@campjs.com
-      image: "/images/profiles/secoif.jpg"
+      name: Glen Arrowsmith
+      twitter: garrows
+      description: Current CampJS head organizing machine. Recently Glen and his partner Jodie had a new baby boy 🎉.
+      email: garrows@campjs.com
+      image: "/images/profiles/garrows.jpg"
     -
       name: Anna Gerber
       twitter: AnnaGerber
@@ -30,19 +24,25 @@ items:
       email: annagerber@campjs.com
       image: "/images/profiles/annagerber.jpg"
     -
-      name: Craig Sharkie
-      twitter: twalve
-      description: Organizer of SydJS and key Sydney representative.
-      email: sharkie@campjs.com
-      image: "/images/profiles/twalve.jpg"
+      name: Sirani McNeill
+      twitter: mcne65
+      description: Junior software dev and cybersecurity expert. Diversity and inclusion champion for CampJS, and instigator of the crafting workshops.
+      image: "/images/profiles/mcne65.jpg"
     -
       name: Maurice Butler
       twitter: butlermaurice
-      description: Not actively involved in organizing any more, but the person we go to when stuff needs to be done.
+      description: Do-er of things. The person who gets stuff done. Invaluable.
       email: mauricebutler@campjs.com
       image: "/images/profiles/butlermaurice.jpg"
     -
-      name: Adam Brady
-      twitter: adam__brady
-      description: General Busy Body
-      image: "/images/profiles/adam__brady.png"
+      name: Tim Oxley
+      twitter: secoif
+      description: Now based in Singapore, but immortalized forever as the traditional founding father of CampJS.
+      email: tim@campjs.com
+      image: "/images/profiles/secoif.jpg"
+
+      +      name:
++      twitter:
++      description:
++      email: siranimcneill020@gmail.com
++      image: "/images/profiles/adam__brady.png"
