@@ -64,10 +64,10 @@ provided, there's a few things you will need to bring for yourself.
 <div class="col-md-6">
 <p class="lead">Koonjewarre is located on Springbrook Plateau in the Gold Coast Hinterland.</p>
 
-<div class="emojicon hex background-green">🛬</div>
+<div class="emojicon hex background-cyan">🛬</div>
 <p>If you're coming by plane we recommend flying to the Gold Coast airport. If necessary you can also fly to the Brisbane airport and catch a connecting train.</p>
 
-<div class="emojicon hex background-pink">🚍</div>
+<div class="emojicon hex background-green">🚍</div>
 <p>Buses run direct from Gold Coast airport, with a connection via Varsity Lakes station to pick up folks coming from Brisbane. See **[the schedule for bus and connection info](/schedule/)**.</p>
 
 <div class="emojicon hex background-yellow">🚗</div>
