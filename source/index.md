@@ -57,7 +57,8 @@ layout: chromeless-page
   <div class="card mb-3">
   <div class="card-body">
   <h2>Watch this space…</h2>
-  <p>The <strong>Call for Proposals</strong> is now closed and we're excitedly reviewing the submissions.</p>
+  <p class="mb-3">Tickets are now on sale!</p>
+  <p><a href="https://ti.to/campjs/campjs-ix" class="btn btn-primary btn-lg mb-3">Get your ticket!</a></p>
   <p>Be the first to know when details are announced! Sign up for tidbits, schedule updates, ticket information!</p>
   <!-- Begin MailChimp Signup Form -->
   <form action="https://campjs.us17.list-manage.com/subscribe/post?u=9e86f175da4d21a075d7c3e68&amp;id=da991fb395" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="form-inline" target="_blank" novalidate>
