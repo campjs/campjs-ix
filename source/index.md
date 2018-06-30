@@ -56,8 +56,7 @@ layout: chromeless-page
 
   <div class="card mb-3">
   <div class="card-body">
-  <h2>Watch this space…</h2>
-  <p class="mb-3">Tickets are now on sale!</p>
+  <h2>Tickets are now on sale!</h2>
   <p><a href="https://ti.to/campjs/campjs-ix" class="btn btn-primary btn-lg mb-3">Get your ticket!</a></p>
   <p>Be the first to know when details are announced! Sign up for tidbits, schedule updates, ticket information!</p>
   <!-- Begin MailChimp Signup Form -->
