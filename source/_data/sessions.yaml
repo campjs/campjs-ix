@@ -23,7 +23,7 @@ items:
         </ul>
         <p>But most importantly - you will see how to transform your vague idea into a solid plan of the game you can make on your own.</p>
     -
-      name: Karthic Keyan
+      name: Karthickeyan Narasimhan
       image: /images/speakers/ix-karthickeyan-narasimhan.jpg
       description: Karthickeyan is a Tech Speaker at Mozilla and has over 3+ years of experience in web application development. He practices modern DevOps standards religiously at work. He contributes to Open Source projects during his free time and talks about latest breakthrough in Web technology & cloud in various Events and conferences. He is also a part of Mozilla’s Campus Advisory Committee which empowers students to contribute to FOSS projects.He’s an official Mozilla Representative for India.
       jobTitle: Tech Speaker
@@ -52,3 +52,62 @@ items:
         <p>"Compilers" are usually-mysterious things that a lot of us actually use and rely on from day to day, eg. the JavaScript V8 engine+compiler (that Node.js and Google Chrome use to run JavaScript), or the TypeScript compiler. Some parts of compilers can appear in other tools too, such as linters and code formatters.</p>
         <p>Digging into how these work can be satisfying in of itself, like sleuthing a good puzzle, but some of the ways we implement them can appear in other forms, such as when validating user input or writing a wrapper library.</p>
         <p>This session will be kicked off by a quick talk that introduces the main parts of a compiler, followed by a "Stream Adventure"-style guided workshop through building a little compiler of your own</p>
+    -
+      name: Alex Hernandez
+      image: "/images/speakers/ix-alex-hernandez.jpg"
+      description: Product designer and Vue.js fanatic/front-end developer focusing on design systems. Last year, he helped launch Leasecake, the eventual of winner of Techstars Global Startup Weekend 2017. In his spare time, he cultivates communities around Vue.js, remote work, and inclusivity.
+      sessionTitle: Demystifying UI Animations with Vue.js
+      synopsis: <p>This talk showcases examples of different types of animation across the web, from simple button color changes to whimsical&nbsp;<a href="https://codepen.io/OyeOvi/pen/RMMJBy" >character-driven login screens</a>. It will clarify the role and significance of animation in the user experience. And show how to build them in Vue.js via a series of CodePens inspired by <a href="https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5">"Good to great UI animation tips"</a> by Pablo Stanley.</p>
+    -
+      name: Tracy Kaur
+      image: "/images/speakers/ix-tracy-kaur.jpg"
+      jobTitle: Launch engineer
+      employer: Shopify Plus
+      sessionType: workshop
+      description: >
+        Tracy works remotely as a Launch Engineer at Shopify Plus and would like to encourage you all to think like an entrepreneur.
+        Prior to joining Shopify she was an educator at Coder Academy after having just gone through the bootcamp herself! She is a qualified teacher, NodeGirl and has a passion for learning new things, and teaching others what she knows.
+        Before arriving in Sunny Australia Tracy led marketing and growth in a variety of industries in the UK where her focus was on coaching teams and managers to increase sales whilst ensuring great customer experiences.
+      sessionTitle: "Don’t Quit Your Day Job: Secrets to Running a Business in Your Spare Time"
+      synopsis: >
+        <p>Do you like to build things? Of course you're a developer. Would you like a side hustle? Is the idea of starting up little businesses on the side appealing? Maybe a store selling tech tee shirts or posters. Have you identified a niche in the market that you could fulfil?</p>
+        <p>When you have a side hustle you have full control.  So by having full control over this thing you can experiment and try different things that you wouldn't be able to do in your nine to five.</p>
+        <p>I've recently started working as a Launch Engineer for Shopify and want to show you how easy it is to set up your own online store. As a developer you can create a custom API that connects to the fulfilment centre and to your store. </p>
+        <p>Come along with an idea and find out and make your own store. Yes, You Can Be an Entrepreneur With a Day Job.</p>
+    -
+      name: Laura Bailey
+      image: "/images/speakers/ix-laura-bailey.jpg"
+      jobTitle: Principal Technical Writer
+      employer: Red Hat Brisbane
+      description:  "Laura Bailey writes things down so you can get things done. She has nearly a decade of experience in technical writing and comorbid project management, coaching, and mentoring skills. A grab-bag of current projects include software-defined storage docs at Red Hat, mentoring and writing tutorials for the Brisbane chapter of NodeGirls, and optimizing her current Stardew Valley playthrough. You can find her on Twitter: @laubaiwri."
+      sessionTitle: Stop hating retrospectives
+      synopsis: >
+        <p>Stay in one place long enough and you'll see problems that recur. Introducing: institutional memory, retrospectives, and the magical art of writing things down and remembering to read them again.</p>
+    -
+      name: Lilly Piri & Nathan Hoad
+      jobTitle: Artists/Developers
+      image: /images/speakers/ix-lilly-and-nathan.jpg
+      description: Lilly and Nathan are three time back-to-back Node Knockout winners as well as taking out the 'Judges Favourite' prize at React Riot 2017.
+      sessionTitle: CampJS Game Jam
+      synopsis: >
+        <p>CampJS IX coincides with Ludum Dare 42 so why not hack on a game at CampJS?</p>
+        <p>Lilly and Nathan will get you started making a game using Phaser.js and introduce you to a few handy tools for creating graphics, levels, and sound effects.</p>
+        <p>You'll also be let in on a few tips from their years of experience with making games at hackathons.</p>
+    -
+      name: Anders Rasmussen
+      image: /images/speakers/ix-anders-rasmussen.jpg
+      sessionType: workshop
+      jobTitle: Developer
+      employer: Psychwire
+      description: A Dane halfway around the world - Been programming for about two thirds of his life. Likes coffee and rubik's cubes.
+      sessionTitle: WebAssembly 101
+      synopsis: An introduction WASM using the Rust programming language and tools to show off the possibilities of using WASM in the browser. This workshop will go through the basics of what WASM is and how it fits into the browser and will end with creating a useful foundation for creating wasm projects with a toolchain that is easy to use.
+    -
+      name: Steven Cooper
+      image: /images/speakers/ix-steven-cooper.jpg
+      jobTitle:
+      employer:
+      description:
+      sessionTitle: Building infrastructure using javascript and paper
+      synopsis: >
+        <p>Paper Programs is a browser-based system for running Javascript programs on pieces of paper (yes paper). Join Steven when the sun goes down for an interactive demo and light show, combined with programmable network APIs (connected to 3 public clouds, 58 datacenters and lots of connections between). In this demo/light show Steven will show how you can use paperprograms JS to drag and drop build infrastructure using paper.</p>

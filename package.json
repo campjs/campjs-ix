@@ -3,14 +3,14 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.5.0"
+    "version": "3.7.1"
   },
   "scripts": {
     "start": "hexo server -p 8080",
     "build": "hexo generate"
   },
   "dependencies": {
-    "bootstrap": "^4.1.0",
+    "bootstrap": "^4.1.2",
     "hexo-autoprefixer": "^1.0.0",
     "hexo-clean-css": "0.0.3",
     "hexo-generator-archive": "^0.1.4",
@@ -20,11 +20,11 @@
     "hexo-renderer-browserify": "^0.1.0",
     "hexo-renderer-ejs": "^0.3.0",
     "hexo-renderer-marked": "^0.3.0",
-    "hexo-renderer-scss": "^1.1.0",
+    "hexo-renderer-scss": "^1.2.0",
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-server": "^0.2.0"
   },
   "devDependencies": {
-    "hexo": "^3.5.0"
+    "hexo": "^3.7.1"
   }
 }
