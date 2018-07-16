@@ -85,9 +85,14 @@ items:
         <p>Stay in one place long enough and you'll see problems that recur. Introducing: institutional memory, retrospectives, and the magical art of writing things down and remembering to read them again.</p>
     -
       name: Lilly Piri & Nathan Hoad
-      image: /images/speakers/ix-nathan-lilly.png
-      sessionTitle: An intro to the CampJS game jam edition
-      synopsis: Lilly and Nathan are an incredibly talented artist/illustrator/developer duo, and serial Node Knockout hackathon winners. Since CampJS falls on the same weekend as Ludum Dare, and the JS13K game jam starts on the Monday, let Lilly and Nathan take you on an adventure in game jamming and get you up to speed for the weekend.
+      jobTitle: Artists/Developers
+      image: /images/speakers/ix-lilly-and-nathan.jpg
+      description: Lilly and Nathan are three time back-to-back Node Knockout winners as well as taking out the 'Judges Favourite' prize at React Riot 2017.
+      sessionTitle: CampJS Game Jam
+      synopsis: >
+        <p>CampJS IX coincides with Ludum Dare 42 so why not hack on a game at CampJS?</p>
+        <p>Lilly and Nathan will get you started making a game using Phaser.js and introduce you to a few handy tools for creating graphics, levels, and sound effects.</p>
+        <p>You'll also be let in on a few tips from their years of experience with making games at hackathons.</p>
     -
       name: Anders Rasmussen
       image: /images/speakers/ix-anders-rasmussen.jpg
