@@ -85,7 +85,7 @@ items:
         <p>Stay in one place long enough and you'll see problems that recur. Introducing: institutional memory, retrospectives, and the magical art of writing things down and remembering to read them again.</p>
     -
       name: Lilly Piri & Nathan Hoad
-      image:
+      image: /images/speakers/ix-nathan-lilly.png
       sessionTitle: An intro to the CampJS game jam edition
       synopsis: Lilly and Nathan are an incredibly talented artist/illustrator/developer duo, and serial Node Knockout hackathon winners. Since CampJS falls on the same weekend as Ludum Dare, and the JS13K game jam starts on the Monday, let Lilly and Nathan take you on an adventure in game jamming and get you up to speed for the weekend.
     -
