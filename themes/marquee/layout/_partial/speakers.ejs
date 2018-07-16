@@ -3,11 +3,9 @@
 <% if (data) {
   data.forEach(function(person, i){ %>
     <div class="row mt-5">
-      <% if(i % 2 === 0) { %>
-        <div class="col-md-3">
-          <img class="card-img-top hex" src="<%- person.image %>" alt="<%= person.name %>">
-        </div>
-      <% } %>
+      <div class="col-md-3">
+        <img class="card-img-top hex" src="<%- person.image %>" alt="<%= person.name %>">
+      </div>
       <div class="col-md-9 speaker-bio">
           <h2 class="mt-5">
             <% if(person.sessionType === 'workshop') { %><span class="label">Workshop</span><% } %>
@@ -39,11 +37,6 @@
           <hr>
           <p class="bio"><%= person.description %></p>
       </div>
-      <% if(i % 2 !== 0) { %>
-        <div class="col-md-3">
-          <img class="card-img-top hex" src="<%- person.image %>" alt="<%= person.name %>">
-        </div>
-      <% } %>
     </div>
   <% }) %>
 <% } %>

@@ -23,7 +23,7 @@ items:
         </ul>
         <p>But most importantly - you will see how to transform your vague idea into a solid plan of the game you can make on your own.</p>
     -
-      name: Karthic Keyan
+      name: Karthickeyan Narasimhan
       image: /images/speakers/ix-karthickeyan-narasimhan.jpg
       description: Karthickeyan is a Tech Speaker at Mozilla and has over 3+ years of experience in web application development. He practices modern DevOps standards religiously at work. He contributes to Open Source projects during his free time and talks about latest breakthrough in Web technology & cloud in various Events and conferences. He is also a part of Mozilla’s Campus Advisory Committee which empowers students to contribute to FOSS projects.He’s an official Mozilla Representative for India.
       jobTitle: Tech Speaker
@@ -63,6 +63,7 @@ items:
       image: "/images/speakers/ix-tracy-kaur.jpg"
       jobTitle: Launch engineer
       employer: Shopify Plus
+      sessionType: workshop
       description: >
         Tracy works remotely as a Launch Engineer at Shopify Plus and would like to encourage you all to think like an entrepreneur.
         Prior to joining Shopify she was an educator at Coder Academy after having just gone through the bootcamp herself! She is a qualified teacher, NodeGirl and has a passion for learning new things, and teaching others what I know.
@@ -73,15 +74,6 @@ items:
         <p>When you have a side hustle you have full control.  So by having full control over this thing you can experiment and try different things that you wouldn't be able to do in your nine to five.</p>
         <p>I've recently started working as a Launch Engineer for Shopify and want to show you how easy it is to set up your own online store. As a developer you can create a custom API that connects to the fulfilment centre and to your store. </p>
         <p>Come along with an idea and find out and make your own store. Yes, You Can Be an Entrepreneur With a Day Job.</p>
-    -
-      name: Steven Cooper
-      image:
-      jobTitle:
-      employer:
-      description:
-      sessionTitle: Building infrastructure using javascript and paper
-      synopsis: >
-        <p>Paper Programs is a browser-based system for running Javascript programs on pieces of paper (yes paper). Join Steven when the sun goes down for an interactive demo and light show, combined with programmable network APIs (connected to 3 public clouds, 58 datacenters and lots of connections between). In this demo/light show Steven will show how you can use paperprograms JS to drag and drop build infrastructure using paper.</p>
     -
       name: Laura Bailey
       image: "/images/speakers/ix-laura-bailey.jpg"
@@ -96,3 +88,21 @@ items:
       image:
       sessionTitle: An intro to the CampJS game jam edition
       synopsis: Lilly and Nathan are an incredibly talented artist/illustrator/developer duo, and serial Node Knockout hackathon winners. Since CampJS falls on the same weekend as Ludum Dare, and the JS13K game jam starts on the Monday, let Lilly and Nathan take you on an adventure in game jamming and get you up to speed for the weekend.
+    -
+      name: Anders Rasmussen
+      image: /images/speakers/ix-anders-rasmussen.jpg
+      sessionType: workshop
+      jobTitle: Developer
+      employer: Psychwire
+      description: A Dane halfway around the world - Been programming for about two thirds of his life. Likes coffee and rubik's cubes.
+      sessionTitle: WebAssembly 101
+      synopsis: An introduction WASM using the Rust programming language and tools to show off the possibilities of using WASM in the browser. This workshop will go through the basics of what WASM is and how it fits into the browser and will end with creating a useful foundation for creating wasm projects with a toolchain that is easy to use.
+    -
+      name: Steven Cooper
+      image: /images/speakers/ix-steven-cooper.jpg
+      jobTitle:
+      employer:
+      description:
+      sessionTitle: Building infrastructure using javascript and paper
+      synopsis: >
+        <p>Paper Programs is a browser-based system for running Javascript programs on pieces of paper (yes paper). Join Steven when the sun goes down for an interactive demo and light show, combined with programmable network APIs (connected to 3 public clouds, 58 datacenters and lots of connections between). In this demo/light show Steven will show how you can use paperprograms JS to drag and drop build infrastructure using paper.</p>
