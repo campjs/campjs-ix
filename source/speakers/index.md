@@ -5,4 +5,4 @@ layout: speakers
 datagrid: sessions
 ---
 
-We're still finalising the speaker list, but in the meantime check out the amazing lineup so far.
+The speaker lineup for the CampJS IX (game jam edition) is now live. Check it out these great speakers, and grab your tickets if you haven't already.
