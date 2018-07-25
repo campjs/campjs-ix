@@ -24,11 +24,6 @@ items:
       email: annagerber@campjs.com
       image: "/images/profiles/annagerber.jpg"
     -
-      name: Sirani McNeill
-      twitter: mcne65
-      description: Junior software dev and cybersecurity expert. Diversity and inclusion champion for CampJS, and instigator of the crafting workshops.
-      image: "/images/profiles/mcne65.jpg"
-    -
       name: Maurice Butler
       twitter: butlermaurice
       description: Do-er of things. The person who gets stuff done. Invaluable.
