@@ -2,13 +2,40 @@ Day	Stream	Type	Time	Duration	Location	Title	Description
 Friday	Early bus	bus	14:00		Gold Coast Airport	Bus departs	There will be a contact person waiting at the airport so you know where to wait.
 Friday	Early bus	bus	14:45		Varsity Lakes Train Station	Bus arrives	For travellers arriving at Brisbane Airport, the journey by train to the connecting bus on the Gold Coast takes approximately 1 hour 45 minutes. You can use Google Maps or the Translink website for timetable information.
 Friday	Early bus	bus	15:00		Dan Murphy’s Robina	Bus arrives for 20 minute stopover	
-Friday	Early bus	bus	16:30	0	Koonjewarre	Bus arrives at camp	
+Friday	Early bus	bus	16:30		Koonjewarre	Bus arrives at camp	
 Friday	Late bus	bus	17:00		Gold Coast Airport	Bus departs	There will be a contact person waiting at the airport so you know where to wait.
 Friday	Late bus	bus	17:45		Varsity Lakes Train Station	Bus arrives	For travellers arriving at Brisbane Airport, the journey by train to the connecting bus on the Gold Coast takes approximately 1 hour 45 minutes. You can use Google Maps or the Translink website for timetable information.
 Friday	Late bus	bus	18:00		Dan Murphy’s Robina	Bus arrives for 20 minute stopover	
-Friday	Late bus	bus	19:30	0	Koonjewarre	Bus arrives at camp	
-Saturday		tbd			TBD	We’re still working on the schedule for the weekend. Stay tuned!	
-Sunday		tbd			TBD	We’re still working on the schedule for the weekend. Stay tuned!	
+Friday	Late bus	bus	19:30		Koonjewarre	Bus arrives at camp	
+
+Saturday		Break	09:00		Dining Hall	Breakfast
+Saturday		Keynote	10:00		Main Hall	Keynote - JavaScript Can Do Anything, and So Can You	by Josh Wulf
+Saturday		Talk	10:30		Dining Hall	Making Games with Electron	by Inga Pflaumer	
+Saturday		Break	11:00			Break
+Saturday		Talk	11:30		Dining Hall	Building a cross browser extension with JS	by Karthickeyan Narasimhan
+Saturday		Break	12:00		Dining Hall	Lunch
+Saturday		Workshop	1:00		Dining Hall	Don't Quit Your Day Job: Secrets to Running a Business in Your Spare Time	by Tracy Kaur
+Saturday		Break	15:00		Dining Hall	Afternoon tea
+Saturday		Talk	15:30		Dining Hall	Perfecting Your Most Used Tool	by Chris Lewis
+Saturday		Workshop	16:00		Dining Hall	Build Your Own Compliler	by Rob Howard
+Saturday		Break	17:00			Break
+Saturday		Break	18:30		Dining Hall	Dinner
+
+Sunday		Break	09:00		Dining Hall	Breakfast
+Sunday		Keynote	10:00		Main Hall	Keynote - Micro-frontends for multi-team scale	by Kevin Vanderbeken
+Sunday		Talk	10:30		Dining Hall	Your web page never listens to me	by Jason O'Neil	
+Sunday		Break	11:00			Break
+Sunday		Talk	11:30		Dining Hall	Demystifying UI Animations with Vue.js	by Alex Hernandez
+Sunday		Break	12:00		Dining Hall	Lunch
+Sunday		Workshop	1:00		Dining Hall	Web Assembly 101	by Anders Rasmussen
+Sunday		Break	15:30		Dining Hall	Afternoon tea
+Sunday		Talk	16:00		Dining Hall	Stop hating retrospectives	by Laura Bailey
+Sunday		Break	16:30			Break
+Sunday		Break	18:30		Dining Hall	Dinner
+Sunday		Talk	19:30		Dining Hall	Closing Remarks
+Sunday		Talk	19:45		Dining Hall	Demos	A chance to show off what you have built over the weekend. Prize Giveaway.
+
+
 Monday	Early bus	bus	08:00		Koonjewarre	Bus departs	Early bus departs Koonjewarre at 8 AM for a 10 AM arrival at the Gold Coast airport.
 Monday	Early bus	bus	09:30		Varsity Lakes Train Station	Bus arrives	The train trip from Varsity Lakes to Brisbane Airport is approximately 1 hour 45 minutes. A train is scheduled to leave at 10:40 AM for a 12:21 PM arrival at the Brisbane International Airport station, and 12:25 PM arrival at the domestic terminal. Please check timetables for connection info closer to the date.
 Monday	Early bus	bus	10:00		Gold Coast Airport	Bus arrives	
