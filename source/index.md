@@ -3,6 +3,7 @@ title: CampJS IX 2018
 date: 2018-02-02
 layout: chromeless-page
 ---
+
 <!-- Ehhh, screw content management. Let's make this page special ^_^ -->
 <div class="interactive-frame" style="width:100%;height:100vh">
   <div class="balloon" style="width:128px;height:128px;right:5%;top:10%;">
@@ -53,6 +54,29 @@ layout: chromeless-page
   <h2>CampJS is a 3-night code retreat for anyone who is interested in web technology.</h2>
 
   <p class="mt-4">The 2018 camp will be held at Koonjewarre (in Springbrook), on the Gold Coast Hinterland. The official camp schedule includes talks and workshops, but attendees also run other activities like bushwalking, drone flying, and even knitting. <a href="/about/">More</a>.</p>
+
+  <h2 class="mb-5">Sponsored by</h2>
+  <ul class="sponsors mb-5">
+    <li class="platinum"><div class="image"><img src="/images/sponsors/ix-creditsense.png" alt="Credit Sense" /></div></li>
+    <li class="platinum"><div class="image"><img src="/images/sponsors/ix-pccw-global.png" alt="PCCW Global" /></div></li>
+    <li class="gold"><div class="image"><img src="/images/sponsors/ix-culture-amp.png" alt="Culture Amp" /></div></li>
+    <li class="diversity-and-coffee"><div class="image"><img src="/images/sponsors/ix-lookahead.png" alt="Lookahead Search" /></div></li>
+    <li class="network"><div class="image"><img src="/images/sponsors/ix-funcaptcha.png" alt="Funcaptcha" /></div></li>
+    <li class="drinks"><div class="image"><img src="/images/sponsors/ix-rexlabs.png" alt="REX" /></div></li>
+    <li class="meal"><div class="image"><img src="" alt="Bloqspace" /></div></li>
+  </ul>
+  <style type="text/css">
+    .sponsors {position:relative;margin:0;padding:0;overflow:hidden;width:100%;display:flex;flex-wrap:wrap;}
+    .sponsors li{box-sizing:border-box;margin:5px 0;padding:0  0 15px 0;list-style:none;width:50%;}
+    .sponsors img{display:block;width:80%;margin:0 auto;}
+
+    .sponsors .platinum{width:100%;margin:0 0 50px 0;}
+    .sponsors .platinum img{width:100%;}
+
+    .sponsors .gold{width:100%;margin:0 0 25px;}
+    .sponsors .gold img{width:50%;}
+
+  </style>
 
   <div class="card mb-3">
   <div class="card-body">
