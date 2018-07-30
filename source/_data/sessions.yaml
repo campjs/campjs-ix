@@ -1,5 +1,14 @@
 items:
     -
+      name: Kevin Vanderbeken
+      image: /images/speakers/ix-kevin-vanderbeken.jpg
+      jobTitle: Senior Software Engineer
+      employer: PCCW Global (Australia)
+      description: Kevin is a JS developer, maker, and still dabbles in design. He’s been organiser & MC at the BrisJS Meetup since 2013, and is based in the Brisbane office of PCCW Global. For the last 3 years as a senior frontend dev, he’s been working to build solutions which empower internal users to support and grow the secure global network and automation platform. He’s recently been working to allow the global software teams to contribute together, joining their products and team strengths.
+      sessionTitle: Stop eating glue …with micro-frontends for multi-team scale
+      synopsis: >
+        <p>We’ve been gluing so many layers in our mono-frontend builds, that when you’re asked to integrate with the functionality of other teams (maybe acquired companies) you might feel stuck! “They have totally different libs and frameworks” you cry! “We don’t want to end up eating their paste!” …Well relax! Pull the popsicle sticks off your elbows and hear this story of how micro-frontends, web components and other ingredients can help you make new unified platforms for huge multi-team scale.</p>
+    -
       name: Chris Lewis
       image: /images/speakers/ix-chris-lewis.jpg
       description: Whether it's backend, frontend, devops, or agile processes, Chris loves to get involved in every aspect of software development. He can't imagine any better industry to be in, and he hopes that his stories can show you just some of the reasons why.
@@ -103,11 +112,16 @@ items:
       sessionTitle: WebAssembly 101
       synopsis: An introduction WASM using the Rust programming language and tools to show off the possibilities of using WASM in the browser. This workshop will go through the basics of what WASM is and how it fits into the browser and will end with creating a useful foundation for creating wasm projects with a toolchain that is easy to use.
     -
-      name: Steven Cooper
-      image: /images/speakers/ix-steven-cooper.jpg
-      jobTitle:
-      employer:
-      description:
-      sessionTitle: Building infrastructure using javascript and paper
+      name: Software Engineer
+      image: /images/speakers/ix-josh-wulf.jpg
+      jobTitle: Josh Wulf
+      employer: Credit Sense
+      description: >
+        Made in NZ; living in Brisbane with my US-born wife and our Peruvian-born son since 2004.
+        Software developer: QWERTY user for 35 years, Dvorak for 1 month. Coding professionally since '95. Spent 10 years at Red Hat engineering Open Source Products. Today I code Kotlin, TypeScript, and Go by choice; ES5/ES6, and Java when required.
+        Explorer: Lived in South America for three years in Hare Krishna temples.
+        Startup founder: Magikcraft - a platform for learning to code in Minecraft using ES6/TypeScript.
+        Athlete: VC Ghosh Yoga Cup Australian National finalist 2008; Australian representative ICN Natural Bodybuilding World Championship 2018.
+      sessionTitle: JavaScript can do anything, and so can you …but should you?
       synopsis: >
-        <p>Paper Programs is a browser-based system for running Javascript programs on pieces of paper (yes paper). Join Steven when the sun goes down for an interactive demo and light show, combined with programmable network APIs (connected to 3 public clouds, 58 datacenters and lots of connections between). In this demo/light show Steven will show how you can use paperprograms JS to drag and drop build infrastructure using paper.</p>
+        <p>TBD</p>
