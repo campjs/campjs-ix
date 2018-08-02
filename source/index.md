@@ -63,7 +63,7 @@ layout: chromeless-page
     <li class="diversity-and-coffee"><div class="image"><img src="/images/sponsors/ix-lookahead.png" alt="Lookahead Search" /></div></li>
     <li class="network"><div class="image"><img src="/images/sponsors/ix-funcaptcha.png" alt="Funcaptcha" /></div></li>
     <li class="drinks"><div class="image"><img src="/images/sponsors/ix-rexlabs.png" alt="REX" /></div></li>
-    <li class="meal"><div class="image"><img src="" alt="Bloqspace" /></div></li>
+    <li class="meal"><div class="image"><img src="/images/sponsors/ix-bloqspace.png" alt="Bloqspace" /></div></li>
   </ul>
   <style type="text/css">
     .sponsors {position:relative;margin:0;padding:0;overflow:hidden;width:100%;display:flex;flex-wrap:wrap;}

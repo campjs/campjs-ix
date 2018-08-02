@@ -112,9 +112,9 @@ items:
       sessionTitle: WebAssembly 101
       synopsis: An introduction WASM using the Rust programming language and tools to show off the possibilities of using WASM in the browser. This workshop will go through the basics of what WASM is and how it fits into the browser and will end with creating a useful foundation for creating wasm projects with a toolchain that is easy to use.
     -
-      name: Software Engineer
+      name: Josh Wulf
       image: /images/speakers/ix-josh-wulf.jpg
-      jobTitle: Josh Wulf
+      jobTitle: Software Engineer
       employer: Credit Sense
       description: >
         Made in NZ; living in Brisbane with my US-born wife and our Peruvian-born son since 2004.
